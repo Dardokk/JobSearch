@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?metadataRepository version='1.2.0'?>
+<repository name='file:/D:/Etudes/DQL/Modelisation%20Eclipse/Workspace/.metadata/.plugins/org.eclipse.pde.core/tempp2metadata - metadata' type='org.eclipse.equinox.internal.p2.metadata.repository.LocalMetadataRepository' version='1.0.0'>
+  <properties size='2'>
+    <property name='p2.timestamp' value='1553873389314'/>
+    <property name='p2.compressed' value='false'/>
+  </properties>
+  <units size='3'>
+    <unit id='org.lpdql.jobSearch' version='0.1.0.201903291629' generation='2'>
+      <update id='org.lpdql.jobSearch' range='[0.0.0,0.1.0.201903291629)' severity='0'/>
+      <properties size='5'>
+        <property name='df_LT.pluginName' value='org.lpdql.jobSearch'/>
+        <property name='df_LT.providerName' value='www.example.org'/>
+        <property name='org.eclipse.equinox.p2.name' value='%pluginName'/>
+        <property name='org.eclipse.equinox.p2.provider' value='%providerName'/>
+        <property name='org.eclipse.equinox.p2.bundle.localization' value='plugin'/>
+      </properties>
+      <provides size='8'>
+        <provided namespace='org.eclipse.equinox.p2.iu' name='org.lpdql.jobSearch' version='0.1.0.201903291629'/>
+        <provided namespace='osgi.bundle' name='org.lpdql.jobSearch' version='0.1.0.201903291629'/>
+        <provided namespace='java.package' name='org.lpdql.jobSearch' version='0.0.0'/>
+        <provided namespace='java.package' name='org.lpdql.jobSearch.impl' version='0.0.0'/>
+        <provided namespace='java.package' name='org.lpdql.jobSearch.util' version='0.0.0'/>
+        <provided namespace='osgi.identity' name='org.lpdql.jobSearch' version='0.1.0.201903291629'>
+          <properties size='1'>
+            <property name='type' value='osgi.bundle'/>
+          </properties>
+        </provided>
+        <provided namespace='org.eclipse.equinox.p2.eclipse.type' name='bundle' version='1.0.0'/>
+        <provided namespace='org.eclipse.equinox.p2.localization' name='df_LT' version='1.0.0'/>
+      </provides>
+      <requires size='3'>
+        <required namespace='osgi.bundle' name='org.eclipse.emf.ecore' range='0.0.0'/>
+        <required namespace='osgi.bundle' name='org.eclipse.core.runtime' range='0.0.0'/>
+        <requiredProperties namespace='osgi.ee' match='(&amp;(osgi.ee=JavaSE)(version=1.8))'/>
+      </requires>
+      <artifacts size='1'>
+        <artifact classifier='osgi.bundle' id='org.lpdql.jobSearch' version='0.1.0.201903291629'/>
+      </artifacts>
+      <touchpoint id='org.eclipse.equinox.p2.osgi' version='1.0.0'/>
+      <touchpointData size='1'>
+        <instructions size='1'>
+          <instruction key='manifest'>
+            Bundle-SymbolicName: org.lpdql.jobSearch;singleton:=true&#xA;Bundle-Version: 0.1.0.201903291629
+          </instruction>
+        </instructions>
+      </touchpointData>
+    </unit>
+    <unit id='org.lpdql.jobSearch.editor' version='1.0.0.201903291629' generation='2'>
+      <update id='org.lpdql.jobSearch.editor' range='[0.0.0,1.0.0.201903291629)' severity='0'/>
+      <properties size='5'>
+        <property name='df_LT.pluginName' value='org.lpdql.jobSearch Editor'/>
+        <property name='df_LT.providerName' value='www.example.org'/>
+        <property name='org.eclipse.equinox.p2.name' value='%pluginName'/>
+        <property name='org.eclipse.equinox.p2.provider' value='%providerName'/>
+        <property name='org.eclipse.equinox.p2.bundle.localization' value='plugin'/>
+      </properties>
+      <provides size='6'>
+        <provided namespace='org.eclipse.equinox.p2.iu' name='org.lpdql.jobSearch.editor' version='1.0.0.201903291629'/>
+        <provided namespace='osgi.bundle' name='org.lpdql.jobSearch.editor' version='1.0.0.201903291629'/>
+        <provided namespace='java.package' name='org.lpdql.jobSearch.presentation' version='0.0.0'/>
+        <provided namespace='osgi.identity' name='org.lpdql.jobSearch.editor' version='1.0.0.201903291629'>
+          <properties size='1'>
+            <property name='type' value='osgi.bundle'/>
+          </properties>
+        </provided>
+        <provided namespace='org.eclipse.equinox.p2.eclipse.type' name='bundle' version='1.0.0'/>
+        <provided namespace='org.eclipse.equinox.p2.localization' name='df_LT' version='1.0.0'/>
+      </provides>
+      <requires size='7'>
+        <required namespace='osgi.bundle' name='org.eclipse.core.runtime' range='0.0.0'/>
+        <required namespace='osgi.bundle' name='org.eclipse.core.resources' range='0.0.0'/>
+        <required namespace='osgi.bundle' name='org.lpdql.jobSearch.edit' range='0.0.0'/>
+        <required namespace='osgi.bundle' name='org.eclipse.emf.ecore.xmi' range='0.0.0'/>
+        <required namespace='osgi.bundle' name='org.eclipse.emf.edit.ui' range='0.0.0'/>
+        <required namespace='osgi.bundle' name='org.eclipse.ui.ide' range='0.0.0'/>
+        <requiredProperties namespace='osgi.ee' match='(&amp;(osgi.ee=JavaSE)(version=1.8))'/>
+      </requires>
+      <artifacts size='1'>
+        <artifact classifier='osgi.bundle' id='org.lpdql.jobSearch.editor' version='1.0.0.201903291629'/>
+      </artifacts>
+      <touchpoint id='org.eclipse.equinox.p2.osgi' version='1.0.0'/>
+      <touchpointData size='1'>
+        <instructions size='1'>
+          <instruction key='manifest'>
+            Bundle-SymbolicName: org.lpdql.jobSearch.editor;singleton:=true&#xA;Bundle-Version: 1.0.0.201903291629&#xA;
+          </instruction>
+        </instructions>
+      </touchpointData>
+    </unit>
+    <unit id='org.lpdql.jobSearch.edit' version='1.0.0.201903291629' generation='2'>
+      <update id='org.lpdql.jobSearch.edit' range='[0.0.0,1.0.0.201903291629)' severity='0'/>
+      <properties size='5'>
+        <property name='df_LT.pluginName' value='org.lpdql.jobSearch Edit Support'/>
+        <property name='df_LT.providerName' value='www.example.org'/>
+        <property name='org.eclipse.equinox.p2.name' value='%pluginName'/>
+        <property name='org.eclipse.equinox.p2.provider' value='%providerName'/>
+        <property name='org.eclipse.equinox.p2.bundle.localization' value='plugin'/>
+      </properties>
+      <provides size='6'>
+        <provided namespace='org.eclipse.equinox.p2.iu' name='org.lpdql.jobSearch.edit' version='1.0.0.201903291629'/>
+        <provided namespace='osgi.bundle' name='org.lpdql.jobSearch.edit' version='1.0.0.201903291629'/>
+        <provided namespace='java.package' name='org.lpdql.jobSearch.provider' version='0.0.0'/>
+        <provided namespace='osgi.identity' name='org.lpdql.jobSearch.edit' version='1.0.0.201903291629'>
+          <properties size='1'>
+            <property name='type' value='osgi.bundle'/>
+          </properties>
+        </provided>
+        <provided namespace='org.eclipse.equinox.p2.eclipse.type' name='bundle' version='1.0.0'/>
+        <provided namespace='org.eclipse.equinox.p2.localization' name='df_LT' version='1.0.0'/>
+      </provides>
+      <requires size='4'>
+        <required namespace='osgi.bundle' name='org.eclipse.core.runtime' range='0.0.0'/>
+        <required namespace='osgi.bundle' name='org.lpdql.jobSearch' range='0.0.0'/>
+        <required namespace='osgi.bundle' name='org.eclipse.emf.edit' range='0.0.0'/>
+        <requiredProperties namespace='osgi.ee' match='(&amp;(osgi.ee=JavaSE)(version=1.8))'/>
+      </requires>
+      <artifacts size='1'>
+        <artifact classifier='osgi.bundle' id='org.lpdql.jobSearch.edit' version='1.0.0.201903291629'/>
+      </artifacts>
+      <touchpoint id='org.eclipse.equinox.p2.osgi' version='1.0.0'/>
+      <touchpointData size='1'>
+        <instructions size='1'>
+          <instruction key='manifest'>
+            Bundle-SymbolicName: org.lpdql.jobSearch.edit;singleton:=true&#xA;Bundle-Version: 1.0.0.201903291629
+          </instruction>
+        </instructions>
+      </touchpointData>
+    </unit>
+  </units>
+</repository>

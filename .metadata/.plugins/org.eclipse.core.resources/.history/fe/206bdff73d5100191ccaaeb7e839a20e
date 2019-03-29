@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<genmodel:GenModel xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:genmodel="http://www.eclipse.org/emf/2002/GenModel"
+    modelDirectory="/org.lpdql.jobSearch/src-gen" creationIcons="false"
+    editDirectory="/org.lpdql.jobSearch.edit/src-gen" editorDirectory="/org.lpdql.jobSearch.editor/src-gen"
+    modelPluginID="org.lpdql.jobSearch" modelName="JobSearch" rootExtendsClass="org.eclipse.emf.ecore.impl.MinimalEObjectImpl$Container"
+    codeFormatting="true" importerID="org.eclipse.emf.importer.ecore" complianceLevel="8.0"
+    copyrightFields="false" operationReflection="true" importOrganizing="true">
+  <foreignModel>jobSearch.ecore</foreignModel>
+  <testsDirectory xsi:nil="true"/>
+  <genPackages prefix="JobSearch" basePackage="org.lpdql" disposableProviderFactory="true"
+      ecorePackage="jobSearch.ecore#/">
+    <genClasses ecoreClass="jobSearch.ecore#//Entreprise"/>
+    <genClasses ecoreClass="jobSearch.ecore#//Candidat">
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference jobSearch.ecore#//Candidat/etudes"/>
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference jobSearch.ecore#//Candidat/experience"/>
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference jobSearch.ecore#//Candidat/contact"/>
+    </genClasses>
+    <genClasses ecoreClass="jobSearch.ecore#//OffreEmploi"/>
+    <genClasses ecoreClass="jobSearch.ecore#//Diplome"/>
+    <genClasses ecoreClass="jobSearch.ecore#//Experience"/>
+    <genClasses ecoreClass="jobSearch.ecore#//Contact"/>
+  </genPackages>
+</genmodel:GenModel>

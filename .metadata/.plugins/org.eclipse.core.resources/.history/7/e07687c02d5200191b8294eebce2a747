@@ -1,0 +1,31 @@
+[comment encoding = UTF-8 /]
+[**
+ * The documentation of the module generate.
+ */]
+[module generate('http://www.example.org/jobSearch')]
+
+
+[**
+ * The documentation of the template generateElement.
+ * @param aJobSearch
+ */]
+[template public generateElement(aJobSearch : JobSearch)]
+[comment @main/]
+[file (aJobSearch.name.concat('.html'), false, 'UTF-8')]
+<html>
+	<body>
+		<h1>Hello [self.name/]</h1>
+		
+			[for (e: Entreprise | self.entreprise)]
+				<h2>[e.name/]</h2>
+			
+				<ul>
+				[for (oe: OffreEmploi | e.offreemploi)]
+				
+				[/for]
+				</ul>
+			[/for]
+	</body>
+</html>
+[/file]
+[/template]

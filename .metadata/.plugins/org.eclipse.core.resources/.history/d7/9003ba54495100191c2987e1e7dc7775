@@ -1,0 +1,229 @@
+/**
+ */
+package org.lpdql.jobSearch;
+
+import java.util.Date;
+
+import org.eclipse.emf.common.util.EList;
+
+import org.eclipse.emf.ecore.EObject;
+
+/**
+ * <!-- begin-user-doc -->
+ * A representation of the model object '<em><b>Candidat</b></em>'.
+ * <!-- end-user-doc -->
+ *
+ * <p>
+ * The following features are supported:
+ * </p>
+ * <ul>
+ *   <li>{@link org.lpdql.jobSearch.Candidat#getDiplome <em>Diplome</em>}</li>
+ *   <li>{@link org.lpdql.jobSearch.Candidat#getExperience <em>Experience</em>}</li>
+ *   <li>{@link org.lpdql.jobSearch.Candidat#getContact <em>Contact</em>}</li>
+ *   <li>{@link org.lpdql.jobSearch.Candidat#getNom <em>Nom</em>}</li>
+ *   <li>{@link org.lpdql.jobSearch.Candidat#getPrenom <em>Prenom</em>}</li>
+ *   <li>{@link org.lpdql.jobSearch.Candidat#getGenre <em>Genre</em>}</li>
+ *   <li>{@link org.lpdql.jobSearch.Candidat#getDateNaissance <em>Date Naissance</em>}</li>
+ *   <li>{@link org.lpdql.jobSearch.Candidat#getCompetence <em>Competence</em>}</li>
+ * </ul>
+ *
+ * @see org.lpdql.jobSearch.JobSearchPackage#getCandidat()
+ * @model
+ * @generated
+ */
+public interface Candidat extends EObject {
+	/**
+	 * Returns the value of the '<em><b>Diplome</b></em>' containment reference list.
+	 * The list contents are of type {@link org.lpdql.jobSearch.Diplome}.
+	 * <!-- begin-user-doc -->
+	 * <p>
+	 * If the meaning of the '<em>Diplome</em>' containment reference list isn't clear,
+	 * there really should be more of a description here...
+	 * </p>
+	 * <!-- end-user-doc -->
+	 * @return the value of the '<em>Diplome</em>' containment reference list.
+	 * @see org.lpdql.jobSearch.JobSearchPackage#getCandidat_Diplome()
+	 * @model containment="true"
+	 * @generated
+	 */
+	EList<Diplome> getDiplome();
+
+	/**
+	 * Returns the value of the '<em><b>Experience</b></em>' containment reference list.
+	 * The list contents are of type {@link org.lpdql.jobSearch.Experience}.
+	 * <!-- begin-user-doc -->
+	 * <p>
+	 * If the meaning of the '<em>Experience</em>' containment reference list isn't clear,
+	 * there really should be more of a description here...
+	 * </p>
+	 * <!-- end-user-doc -->
+	 * @return the value of the '<em>Experience</em>' containment reference list.
+	 * @see org.lpdql.jobSearch.JobSearchPackage#getCandidat_Experience()
+	 * @model containment="true"
+	 * @generated
+	 */
+	EList<Experience> getExperience();
+
+	/**
+	 * Returns the value of the '<em><b>Contact</b></em>' containment reference.
+	 * <!-- begin-user-doc -->
+	 * <p>
+	 * If the meaning of the '<em>Contact</em>' containment reference isn't clear,
+	 * there really should be more of a description here...
+	 * </p>
+	 * <!-- end-user-doc -->
+	 * @return the value of the '<em>Contact</em>' containment reference.
+	 * @see #setContact(Contact)
+	 * @see org.lpdql.jobSearch.JobSearchPackage#getCandidat_Contact()
+	 * @model containment="true"
+	 * @generated
+	 */
+	Contact getContact();
+
+	/**
+	 * Sets the value of the '{@link org.lpdql.jobSearch.Candidat#getContact <em>Contact</em>}' containment reference.
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @param value the new value of the '<em>Contact</em>' containment reference.
+	 * @see #getContact()
+	 * @generated
+	 */
+	void setContact(Contact value);
+
+	/**
+	 * Returns the value of the '<em><b>Nom</b></em>' attribute.
+	 * <!-- begin-user-doc -->
+	 * <p>
+	 * If the meaning of the '<em>Nom</em>' attribute isn't clear,
+	 * there really should be more of a description here...
+	 * </p>
+	 * <!-- end-user-doc -->
+	 * @return the value of the '<em>Nom</em>' attribute.
+	 * @see #setNom(String)
+	 * @see org.lpdql.jobSearch.JobSearchPackage#getCandidat_Nom()
+	 * @model
+	 * @generated
+	 */
+	String getNom();
+
+	/**
+	 * Sets the value of the '{@link org.lpdql.jobSearch.Candidat#getNom <em>Nom</em>}' attribute.
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @param value the new value of the '<em>Nom</em>' attribute.
+	 * @see #getNom()
+	 * @generated
+	 */
+	void setNom(String value);
+
+	/**
+	 * Returns the value of the '<em><b>Prenom</b></em>' attribute.
+	 * <!-- begin-user-doc -->
+	 * <p>
+	 * If the meaning of the '<em>Prenom</em>' attribute isn't clear,
+	 * there really should be more of a description here...
+	 * </p>
+	 * <!-- end-user-doc -->
+	 * @return the value of the '<em>Prenom</em>' attribute.
+	 * @see #setPrenom(String)
+	 * @see org.lpdql.jobSearch.JobSearchPackage#getCandidat_Prenom()
+	 * @model
+	 * @generated
+	 */
+	String getPrenom();
+
+	/**
+	 * Sets the value of the '{@link org.lpdql.jobSearch.Candidat#getPrenom <em>Prenom</em>}' attribute.
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @param value the new value of the '<em>Prenom</em>' attribute.
+	 * @see #getPrenom()
+	 * @generated
+	 */
+	void setPrenom(String value);
+
+	/**
+	 * Returns the value of the '<em><b>Genre</b></em>' attribute.
+	 * <!-- begin-user-doc -->
+	 * <p>
+	 * If the meaning of the '<em>Genre</em>' attribute isn't clear,
+	 * there really should be more of a description here...
+	 * </p>
+	 * <!-- end-user-doc -->
+	 * @return the value of the '<em>Genre</em>' attribute.
+	 * @see #setGenre(char)
+	 * @see org.lpdql.jobSearch.JobSearchPackage#getCandidat_Genre()
+	 * @model
+	 * @generated
+	 */
+	char getGenre();
+
+	/**
+	 * Sets the value of the '{@link org.lpdql.jobSearch.Candidat#getGenre <em>Genre</em>}' attribute.
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @param value the new value of the '<em>Genre</em>' attribute.
+	 * @see #getGenre()
+	 * @generated
+	 */
+	void setGenre(char value);
+
+	/**
+	 * Returns the value of the '<em><b>Date Naissance</b></em>' attribute.
+	 * <!-- begin-user-doc -->
+	 * <p>
+	 * If the meaning of the '<em>Date Naissance</em>' attribute isn't clear,
+	 * there really should be more of a description here...
+	 * </p>
+	 * <!-- end-user-doc -->
+	 * @return the value of the '<em>Date Naissance</em>' attribute.
+	 * @see #setDateNaissance(Date)
+	 * @see org.lpdql.jobSearch.JobSearchPackage#getCandidat_DateNaissance()
+	 * @model
+	 * @generated
+	 */
+	Date getDateNaissance();
+
+	/**
+	 * Sets the value of the '{@link org.lpdql.jobSearch.Candidat#getDateNaissance <em>Date Naissance</em>}' attribute.
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @param value the new value of the '<em>Date Naissance</em>' attribute.
+	 * @see #getDateNaissance()
+	 * @generated
+	 */
+	void setDateNaissance(Date value);
+
+	/**
+	 * Returns the value of the '<em><b>Competence</b></em>' containment reference list.
+	 * The list contents are of type {@link org.lpdql.jobSearch.Competence}.
+	 * <!-- begin-user-doc -->
+	 * <p>
+	 * If the meaning of the '<em>Competence</em>' containment reference list isn't clear,
+	 * there really should be more of a description here...
+	 * </p>
+	 * <!-- end-user-doc -->
+	 * @return the value of the '<em>Competence</em>' containment reference list.
+	 * @see org.lpdql.jobSearch.JobSearchPackage#getCandidat_Competence()
+	 * @model containment="true"
+	 * @generated
+	 */
+	EList<Competence> getCompetence();
+
+	/**
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @model
+	 * @generated
+	 */
+	void postuler(OffreEmploi offreEmploi);
+
+	/**
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @model
+	 * @generated
+	 */
+	OffreEmploi rechercherEmploi(String lieu, String motsCles);
+
+} // Candidat

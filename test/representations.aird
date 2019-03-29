@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:description="http://www.eclipse.org/sirius/description/1.1.0" xmlns:description_1="http://www.eclipse.org/sirius/diagram/description/1.1.0" xmlns:diagram="http://www.eclipse.org/sirius/diagram/1.1.0" xmlns:jobSearch="http://www.example.org/jobSearch" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:style="http://www.eclipse.org/sirius/diagram/description/style/1.1.0" xmlns:viewpoint="http://www.eclipse.org/sirius/1.1.0" xsi:schemaLocation="http://www.eclipse.org/sirius/description/1.1.0 http://www.eclipse.org/sirius/1.1.0#//description http://www.eclipse.org/sirius/diagram/description/1.1.0 http://www.eclipse.org/sirius/diagram/1.1.0#//description http://www.eclipse.org/sirius/diagram/description/style/1.1.0 http://www.eclipse.org/sirius/diagram/1.1.0#//description/style">
+  <viewpoint:DAnalysis uid="_pph5AFI3EemWZ-eOx6vi3w" selectedViews="__rSgAFI3EemlHscc880N5A" version="14.1.0.201810161215">
+    <semanticResources>My.jobsearch</semanticResources>
+    <ownedViews xmi:type="viewpoint:DView" uid="__rSgAFI3EemlHscc880N5A">
+      <viewpoint xmi:type="description:Viewpoint" href="platform:/resource/org.lpdql.jobSearch.vp/description/vp.odesign#//@ownedViewpoints[name='myJobSearch']"/>
+      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_Ldzr0FI4EembDJQ0RWyWbA" name="new JobSearch Diagram" repPath="#_LdVKsFI4EembDJQ0RWyWbA">
+        <description xmi:type="description_1:DiagramDescription" href="platform:/resource/org.lpdql.jobSearch.vp/description/vp.odesign#//@ownedViewpoints[name='myJobSearch']/@ownedRepresentations[name='jobSearchDiagram']"/>
+        <target xmi:type="jobSearch:JobSearch" href="My.jobsearch#/"/>
+      </ownedRepresentationDescriptors>
+    </ownedViews>
+  </viewpoint:DAnalysis>
+  <diagram:DSemanticDiagram uid="_LdVKsFI4EembDJQ0RWyWbA" name="new JobSearch Diagram">
+    <ownedAnnotationEntries xmi:type="description:AnnotationEntry" uid="_LdvaYFI4EembDJQ0RWyWbA" source="DANNOTATION_CUSTOMIZATION_KEY">
+      <data xmi:type="diagram:ComputedStyleDescriptionRegistry" uid="_LdvaYVI4EembDJQ0RWyWbA"/>
+    </ownedAnnotationEntries>
+    <ownedAnnotationEntries xmi:type="description:AnnotationEntry" uid="_LeLfQFI4EembDJQ0RWyWbA" source="GMF_DIAGRAMS">
+      <data xmi:type="notation:Diagram" xmi:id="_LeLfQVI4EembDJQ0RWyWbA" type="Sirius" element="_LdVKsFI4EembDJQ0RWyWbA" measurementUnit="Pixel">
+        <children xmi:type="notation:Node" xmi:id="_R4VfQFI4EembDJQ0RWyWbA" type="2001" element="_R3nGgFI4EembDJQ0RWyWbA">
+          <children xmi:type="notation:Node" xmi:id="_R4cM8FI4EembDJQ0RWyWbA" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_R4cM8VI4EembDJQ0RWyWbA" y="5"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_R4hFcFI4EembDJQ0RWyWbA" type="3004" element="_R31wAFI4EembDJQ0RWyWbA">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_R4hFcVI4EembDJQ0RWyWbA" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_R4hFclI4EembDJQ0RWyWbA"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_R4VfQVI4EembDJQ0RWyWbA" fontName="Segoe UI" fontHeight="12"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_R4VfQlI4EembDJQ0RWyWbA" x="348" y="365" width="30" height="30"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_R4eCIFI4EembDJQ0RWyWbA" type="2001" element="_R3-58FI4EembDJQ0RWyWbA">
+          <children xmi:type="notation:Node" xmi:id="_R4epMFI4EembDJQ0RWyWbA" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_R4epMVI4EembDJQ0RWyWbA" y="5"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_R4hsgFI4EembDJQ0RWyWbA" type="3004" element="_R3-58VI4EembDJQ0RWyWbA">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_R4hsgVI4EembDJQ0RWyWbA" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_R4hsglI4EembDJQ0RWyWbA"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_R4eCIVI4EembDJQ0RWyWbA" fontName="Segoe UI" fontHeight="12"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_R4eCIlI4EembDJQ0RWyWbA" x="348" y="208" width="30" height="30"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_g9m1QFI4EembDJQ0RWyWbA" type="2001" element="_g9KJUVI4EembDJQ0RWyWbA">
+          <children xmi:type="notation:Node" xmi:id="_g9ncUFI4EembDJQ0RWyWbA" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_g9ncUVI4EembDJQ0RWyWbA" y="5"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_pz12IFI4EembDJQ0RWyWbA" type="3004" element="_pzc0klI4EembDJQ0RWyWbA">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_pz12IVI4EembDJQ0RWyWbA" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_pz12IlI4EembDJQ0RWyWbA"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_g9m1QVI4EembDJQ0RWyWbA" fontName="Segoe UI"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_g9m1QlI4EembDJQ0RWyWbA" x="144" y="66" width="20" height="20"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_zM0XsFI4EembDJQ0RWyWbA" type="2002" element="_zMBtgFI4EembDJQ0RWyWbA">
+          <children xmi:type="notation:Node" xmi:id="_zM1l0FI4EembDJQ0RWyWbA" type="5006"/>
+          <children xmi:type="notation:Node" xmi:id="_zM3bAFI4EembDJQ0RWyWbA" type="7001">
+            <styles xmi:type="notation:SortingStyle" xmi:id="_zM3bAVI4EembDJQ0RWyWbA"/>
+            <styles xmi:type="notation:FilteringStyle" xmi:id="_zM3bAlI4EembDJQ0RWyWbA"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_zM0XsVI4EembDJQ0RWyWbA" fontName="Segoe UI"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_zM0XslI4EembDJQ0RWyWbA" x="130" y="365" width="162"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_zM4CEFI4EembDJQ0RWyWbA" type="2002" element="_zMC7oFI4EembDJQ0RWyWbA">
+          <children xmi:type="notation:Node" xmi:id="_zM4pIFI4EembDJQ0RWyWbA" type="5006"/>
+          <children xmi:type="notation:Node" xmi:id="_zM53QFI4EembDJQ0RWyWbA" type="7001">
+            <styles xmi:type="notation:SortingStyle" xmi:id="_zM53QVI4EembDJQ0RWyWbA"/>
+            <styles xmi:type="notation:FilteringStyle" xmi:id="_zM53QlI4EembDJQ0RWyWbA"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_zM4CEVI4EembDJQ0RWyWbA" fontName="Segoe UI"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_zM4CElI4EembDJQ0RWyWbA" x="42" y="426" width="250"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_zM53Q1I4EembDJQ0RWyWbA" type="2002" element="_zMC7oVI4EembDJQ0RWyWbA">
+          <children xmi:type="notation:Node" xmi:id="_zM6eUFI4EembDJQ0RWyWbA" type="5006"/>
+          <children xmi:type="notation:Node" xmi:id="_zM6eUVI4EembDJQ0RWyWbA" type="7001">
+            <styles xmi:type="notation:SortingStyle" xmi:id="_zM6eUlI4EembDJQ0RWyWbA"/>
+            <styles xmi:type="notation:FilteringStyle" xmi:id="_zM6eU1I4EembDJQ0RWyWbA"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_zM53RFI4EembDJQ0RWyWbA" fontName="Segoe UI"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_zM53RVI4EembDJQ0RWyWbA" x="39" y="299" width="255"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_zM6eVFI4EembDJQ0RWyWbA" type="2002" element="_zMDisFI4EembDJQ0RWyWbA">
+          <children xmi:type="notation:Node" xmi:id="_zM7FYFI4EembDJQ0RWyWbA" type="5006"/>
+          <children xmi:type="notation:Node" xmi:id="_zM7FYVI4EembDJQ0RWyWbA" type="7001">
+            <styles xmi:type="notation:SortingStyle" xmi:id="_zM7FYlI4EembDJQ0RWyWbA"/>
+            <styles xmi:type="notation:FilteringStyle" xmi:id="_zM7FY1I4EembDJQ0RWyWbA"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_zM6eVVI4EembDJQ0RWyWbA" fontName="Segoe UI"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_zM6eVlI4EembDJQ0RWyWbA" x="42" y="204" width="225"/>
+        </children>
+        <styles xmi:type="notation:DiagramStyle" xmi:id="_LeLfQlI4EembDJQ0RWyWbA"/>
+      </data>
+    </ownedAnnotationEntries>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_R3nGgFI4EembDJQ0RWyWbA" name="JairBus" width="3" height="3" resizeKind="NSEW">
+      <target xmi:type="jobSearch:Entreprise" href="My.jobsearch#//@entreprise.0"/>
+      <semanticElements xmi:type="jobSearch:Entreprise" href="My.jobsearch#//@entreprise.0"/>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:BundledImage" uid="_R31wAFI4EembDJQ0RWyWbA" labelSize="12" shape="dot">
+        <description xmi:type="style:BundledImageDescription" href="platform:/resource/org.lpdql.jobSearch.vp/description/vp.odesign#//@ownedViewpoints[name='myJobSearch']/@ownedRepresentations[name='jobSearchDiagram']/@defaultLayer/@nodeMappings[name='entreprise']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/org.lpdql.jobSearch.vp/description/vp.odesign#//@ownedViewpoints[name='myJobSearch']/@ownedRepresentations[name='jobSearchDiagram']/@defaultLayer/@nodeMappings[name='entreprise']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_R3-58FI4EembDJQ0RWyWbA" name="Facebook" width="3" height="3" resizeKind="NSEW">
+      <target xmi:type="jobSearch:Entreprise" href="My.jobsearch#//@entreprise.1"/>
+      <semanticElements xmi:type="jobSearch:Entreprise" href="My.jobsearch#//@entreprise.1"/>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:BundledImage" uid="_R3-58VI4EembDJQ0RWyWbA" labelSize="12" shape="dot">
+        <description xmi:type="style:BundledImageDescription" href="platform:/resource/org.lpdql.jobSearch.vp/description/vp.odesign#//@ownedViewpoints[name='myJobSearch']/@ownedRepresentations[name='jobSearchDiagram']/@defaultLayer/@nodeMappings[name='entreprise']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/org.lpdql.jobSearch.vp/description/vp.odesign#//@ownedViewpoints[name='myJobSearch']/@ownedRepresentations[name='jobSearchDiagram']/@defaultLayer/@nodeMappings[name='entreprise']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_g9KJUVI4EembDJQ0RWyWbA" name="Dupont" width="3" height="3" resizeKind="NSEW">
+      <target xmi:type="jobSearch:Candidat" href="My.jobsearch#//@candidat.0"/>
+      <semanticElements xmi:type="jobSearch:Candidat" href="My.jobsearch#//@candidat.0"/>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:BundledImage" uid="_pzc0klI4EembDJQ0RWyWbA" labelSize="12" shape="ring" color="194,239,255">
+        <description xmi:type="style:BundledImageDescription" href="platform:/resource/org.lpdql.jobSearch.vp/description/vp.odesign#//@ownedViewpoints[name='myJobSearch']/@ownedRepresentations[name='jobSearchDiagram']/@defaultLayer/@nodeMappings[name='candidat']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/org.lpdql.jobSearch.vp/description/vp.odesign#//@ownedViewpoints[name='myJobSearch']/@ownedRepresentations[name='jobSearchDiagram']/@defaultLayer/@nodeMappings[name='candidat']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNodeContainer" uid="_zMBtgFI4EembDJQ0RWyWbA" name="Souffleur d'air">
+      <target xmi:type="jobSearch:OffreEmploi" href="My.jobsearch#//@entreprise.0/@publier.0"/>
+      <semanticElements xmi:type="jobSearch:OffreEmploi" href="My.jobsearch#//@entreprise.0/@publier.0"/>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:FlatContainerStyle" uid="__LtyoFI4EembDJQ0RWyWbA" labelSize="12" borderSize="1" borderSizeComputationExpression="1" backgroundColor="255,245,181" foregroundColor="252,175,62">
+        <description xmi:type="style:FlatContainerStyleDescription" href="platform:/resource/org.lpdql.jobSearch.vp/description/vp.odesign#//@ownedViewpoints[name='myJobSearch']/@ownedRepresentations[name='jobSearchDiagram']/@defaultLayer/@containerMappings[name='offreemploi']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/resource/org.lpdql.jobSearch.vp/description/vp.odesign#//@ownedViewpoints[name='myJobSearch']/@ownedRepresentations[name='jobSearchDiagram']/@defaultLayer/@containerMappings[name='offreemploi']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNodeContainer" uid="_zMC7oFI4EembDJQ0RWyWbA" name="Responsable Qualite Air">
+      <target xmi:type="jobSearch:OffreEmploi" href="My.jobsearch#//@entreprise.0/@publier.1"/>
+      <semanticElements xmi:type="jobSearch:OffreEmploi" href="My.jobsearch#//@entreprise.0/@publier.1"/>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:FlatContainerStyle" uid="__Lvn0FI4EembDJQ0RWyWbA" labelSize="12" borderSize="1" borderSizeComputationExpression="1" backgroundColor="255,245,181" foregroundColor="252,175,62">
+        <description xmi:type="style:FlatContainerStyleDescription" href="platform:/resource/org.lpdql.jobSearch.vp/description/vp.odesign#//@ownedViewpoints[name='myJobSearch']/@ownedRepresentations[name='jobSearchDiagram']/@defaultLayer/@containerMappings[name='offreemploi']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/resource/org.lpdql.jobSearch.vp/description/vp.odesign#//@ownedViewpoints[name='myJobSearch']/@ownedRepresentations[name='jobSearchDiagram']/@defaultLayer/@containerMappings[name='offreemploi']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNodeContainer" uid="_zMC7oVI4EembDJQ0RWyWbA" name="Stage Conducteur d'air">
+      <target xmi:type="jobSearch:OffreEmploi" href="My.jobsearch#//@entreprise.0/@publier.2"/>
+      <semanticElements xmi:type="jobSearch:OffreEmploi" href="My.jobsearch#//@entreprise.0/@publier.2"/>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:FlatContainerStyle" uid="__LxdAFI4EembDJQ0RWyWbA" labelSize="12" borderSize="1" borderSizeComputationExpression="1" backgroundColor="255,245,181" foregroundColor="252,175,62">
+        <description xmi:type="style:FlatContainerStyleDescription" href="platform:/resource/org.lpdql.jobSearch.vp/description/vp.odesign#//@ownedViewpoints[name='myJobSearch']/@ownedRepresentations[name='jobSearchDiagram']/@defaultLayer/@containerMappings[name='offreemploi']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/resource/org.lpdql.jobSearch.vp/description/vp.odesign#//@ownedViewpoints[name='myJobSearch']/@ownedRepresentations[name='jobSearchDiagram']/@defaultLayer/@containerMappings[name='offreemploi']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNodeContainer" uid="_zMDisFI4EembDJQ0RWyWbA" name="Developpeur banal">
+      <target xmi:type="jobSearch:OffreEmploi" href="My.jobsearch#//@entreprise.1/@publier.0"/>
+      <semanticElements xmi:type="jobSearch:OffreEmploi" href="My.jobsearch#//@entreprise.1/@publier.0"/>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:FlatContainerStyle" uid="__LzSMFI4EembDJQ0RWyWbA" labelSize="12" borderSize="1" borderSizeComputationExpression="1" backgroundColor="255,245,181" foregroundColor="252,175,62">
+        <description xmi:type="style:FlatContainerStyleDescription" href="platform:/resource/org.lpdql.jobSearch.vp/description/vp.odesign#//@ownedViewpoints[name='myJobSearch']/@ownedRepresentations[name='jobSearchDiagram']/@defaultLayer/@containerMappings[name='offreemploi']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/resource/org.lpdql.jobSearch.vp/description/vp.odesign#//@ownedViewpoints[name='myJobSearch']/@ownedRepresentations[name='jobSearchDiagram']/@defaultLayer/@containerMappings[name='offreemploi']"/>
+    </ownedDiagramElements>
+    <description xmi:type="description_1:DiagramDescription" href="platform:/resource/org.lpdql.jobSearch.vp/description/vp.odesign#//@ownedViewpoints[name='myJobSearch']/@ownedRepresentations[name='jobSearchDiagram']"/>
+    <filterVariableHistory xmi:type="diagram:FilterVariableHistory" uid="_LddtkFI4EembDJQ0RWyWbA"/>
+    <activatedLayers xmi:type="description_1:Layer" href="platform:/resource/org.lpdql.jobSearch.vp/description/vp.odesign#//@ownedViewpoints[name='myJobSearch']/@ownedRepresentations[name='jobSearchDiagram']/@defaultLayer"/>
+    <target xmi:type="jobSearch:JobSearch" href="My.jobsearch#/"/>
+  </diagram:DSemanticDiagram>
+</xmi:XMI>

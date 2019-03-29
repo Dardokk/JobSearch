@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<genmodel:GenModel xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:genmodel="http://www.eclipse.org/emf/2002/GenModel"
+    modelDirectory="/org.lpdql.jobSearch/src-gen" creationIcons="false"
+    editDirectory="/org.lpdql.jobSearch.edit/src-gen" editorDirectory="/org.lpdql.jobSearch.editor/src-gen"
+    modelPluginID="org.lpdql.jobSearch" modelName="JobSearch" rootExtendsClass="org.eclipse.emf.ecore.impl.MinimalEObjectImpl$Container"
+    codeFormatting="true" importerID="org.eclipse.emf.importer.ecore" complianceLevel="8.0"
+    copyrightFields="false" operationReflection="true" importOrganizing="true">
+  <foreignModel>jobSearch.ecore</foreignModel>
+  <testsDirectory xsi:nil="true"/>
+  <genPackages prefix="JobSearch" basePackage="org.lpdql" disposableProviderFactory="true"
+      ecorePackage="jobSearch.ecore#/">
+    <genClasses ecoreClass="jobSearch.ecore#//Entreprise">
+      <genFeatures children="true" createChild="true" propertySortChoices="true" ecoreFeature="ecore:EReference jobSearch.ecore#//Entreprise/poster"/>
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference jobSearch.ecore#//Entreprise/contact"/>
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference jobSearch.ecore#//Entreprise/identification"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute jobSearch.ecore#//Entreprise/nom"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute jobSearch.ecore#//Entreprise/domaine"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute jobSearch.ecore#//Entreprise/description"/>
+    </genClasses>
+    <genClasses ecoreClass="jobSearch.ecore#//Candidat">
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference jobSearch.ecore#//Candidat/diplome"/>
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference jobSearch.ecore#//Candidat/experience"/>
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference jobSearch.ecore#//Candidat/contact"/>
+      <genFeatures children="true" createChild="true" propertySortChoices="true" ecoreFeature="ecore:EReference jobSearch.ecore#//Candidat/postuler.1"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute jobSearch.ecore#//Candidat/nom"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute jobSearch.ecore#//Candidat/prenom"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute jobSearch.ecore#//Candidat/genre"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute jobSearch.ecore#//Candidat/dateNaissance"/>
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference jobSearch.ecore#//Candidat/identification"/>
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference jobSearch.ecore#//Candidat/competence"/>
+      <genOperations ecoreOperation="jobSearch.ecore#//Candidat/postuler"/>
+      <genOperations ecoreOperation="jobSearch.ecore#//Candidat/rechercherEmploi">
+        <genParameters ecoreParameter="jobSearch.ecore#//Candidat/rechercherEmploi/lieu"/>
+        <genParameters ecoreParameter="jobSearch.ecore#//Candidat/rechercherEmploi/motsCles"/>
+      </genOperations>
+      <genOperations ecoreOperation="jobSearch.ecore#//Candidat/ajouterDiplome">
+        <genParameters ecoreParameter="jobSearch.ecore#//Candidat/ajouterDiplome/diplome"/>
+      </genOperations>
+      <genOperations ecoreOperation="jobSearch.ecore#//Candidat/ajouterExperience">
+        <genParameters ecoreParameter="jobSearch.ecore#//Candidat/ajouterExperience/experience"/>
+      </genOperations>
+      <genOperations ecoreOperation="jobSearch.ecore#//Candidat/ajouterCompetence">
+        <genParameters ecoreParameter="jobSearch.ecore#//Candidat/ajouterCompetence/competence"/>
+      </genOperations>
+    </genClasses>
+    <genClasses ecoreClass="jobSearch.ecore#//OffreEmploi">
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute jobSearch.ecore#//OffreEmploi/titre"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute jobSearch.ecore#//OffreEmploi/datePublication"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute jobSearch.ecore#//OffreEmploi/description"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute jobSearch.ecore#//OffreEmploi/typeContrat"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute jobSearch.ecore#//OffreEmploi/niveauEtude"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute jobSearch.ecore#//OffreEmploi/niveauExperience"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute jobSearch.ecore#//OffreEmploi/villeEmploi"/>
+    </genClasses>
+    <genClasses ecoreClass="jobSearch.ecore#//Diplome">
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute jobSearch.ecore#//Diplome/niveau"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute jobSearch.ecore#//Diplome/domaine"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute jobSearch.ecore#//Diplome/anneeObtention"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute jobSearch.ecore#//Diplome/etablissement"/>
+    </genClasses>
+    <genClasses ecoreClass="jobSearch.ecore#//Experience">
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute jobSearch.ecore#//Experience/entreprise"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute jobSearch.ecore#//Experience/dateDebut"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute jobSearch.ecore#//Experience/dateFin"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute jobSearch.ecore#//Experience/poste"/>
+    </genClasses>
+    <genClasses ecoreClass="jobSearch.ecore#//Contact">
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute jobSearch.ecore#//Contact/adresse"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute jobSearch.ecore#//Contact/ville"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute jobSearch.ecore#//Contact/codePostal"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute jobSearch.ecore#//Contact/telephone"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute jobSearch.ecore#//Contact/email"/>
+    </genClasses>
+    <genClasses ecoreClass="jobSearch.ecore#//Identification">
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute jobSearch.ecore#//Identification/pseudo"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute jobSearch.ecore#//Identification/mdp"/>
+    </genClasses>
+    <genClasses ecoreClass="jobSearch.ecore#//Competence">
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute jobSearch.ecore#//Competence/nom"/>
+    </genClasses>
+  </genPackages>
+</genmodel:GenModel>

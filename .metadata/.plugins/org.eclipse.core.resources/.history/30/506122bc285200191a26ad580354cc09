@@ -1,0 +1,17 @@
+[comment encoding = UTF-8 /]
+[**
+ * The documentation of the module generate.
+ */]
+[module generate('http://www.example.org/jobSearch')]
+
+
+[**
+ * The documentation of the template generateElement.
+ * @param aJobSearch
+ */]
+[template public generateElement(aJobSearch : JobSearch)]
+[comment @main/]
+[file (aJobSearch.name, false, 'UTF-8')]
+
+[/file]
+[/template]

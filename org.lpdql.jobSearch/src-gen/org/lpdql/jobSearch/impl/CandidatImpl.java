@@ -1,0 +1,581 @@
+/**
+ */
+package org.lpdql.jobSearch.impl;
+
+import java.lang.reflect.InvocationTargetException;
+
+import java.util.Collection;
+import java.util.Date;
+
+import org.eclipse.emf.common.notify.Notification;
+import org.eclipse.emf.common.notify.NotificationChain;
+
+import org.eclipse.emf.common.util.EList;
+
+import org.eclipse.emf.ecore.EClass;
+import org.eclipse.emf.ecore.InternalEObject;
+
+import org.eclipse.emf.ecore.impl.ENotificationImpl;
+import org.eclipse.emf.ecore.impl.MinimalEObjectImpl;
+
+import org.eclipse.emf.ecore.util.EObjectContainmentEList;
+import org.eclipse.emf.ecore.util.InternalEList;
+
+import org.lpdql.jobSearch.Candidat;
+import org.lpdql.jobSearch.Competence;
+import org.lpdql.jobSearch.Contact;
+import org.lpdql.jobSearch.Diplome;
+import org.lpdql.jobSearch.Experience;
+import org.lpdql.jobSearch.JobSearchPackage;
+import org.lpdql.jobSearch.OffreEmploi;
+
+/**
+ * <!-- begin-user-doc -->
+ * An implementation of the model object '<em><b>Candidat</b></em>'.
+ * <!-- end-user-doc -->
+ * <p>
+ * The following features are implemented:
+ * </p>
+ * <ul>
+ *   <li>{@link org.lpdql.jobSearch.impl.CandidatImpl#getName <em>Name</em>}</li>
+ *   <li>{@link org.lpdql.jobSearch.impl.CandidatImpl#getDiplome <em>Diplome</em>}</li>
+ *   <li>{@link org.lpdql.jobSearch.impl.CandidatImpl#getExperience <em>Experience</em>}</li>
+ *   <li>{@link org.lpdql.jobSearch.impl.CandidatImpl#getContact <em>Contact</em>}</li>
+ *   <li>{@link org.lpdql.jobSearch.impl.CandidatImpl#getPrenom <em>Prenom</em>}</li>
+ *   <li>{@link org.lpdql.jobSearch.impl.CandidatImpl#getGenre <em>Genre</em>}</li>
+ *   <li>{@link org.lpdql.jobSearch.impl.CandidatImpl#getDateNaissance <em>Date Naissance</em>}</li>
+ *   <li>{@link org.lpdql.jobSearch.impl.CandidatImpl#getCompetence <em>Competence</em>}</li>
+ * </ul>
+ *
+ * @generated
+ */
+public class CandidatImpl extends MinimalEObjectImpl.Container implements Candidat {
+	/**
+	 * The default value of the '{@link #getName() <em>Name</em>}' attribute.
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @see #getName()
+	 * @generated
+	 * @ordered
+	 */
+	protected static final String NAME_EDEFAULT = null;
+
+	/**
+	 * The cached value of the '{@link #getName() <em>Name</em>}' attribute.
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @see #getName()
+	 * @generated
+	 * @ordered
+	 */
+	protected String name = NAME_EDEFAULT;
+
+	/**
+	 * The cached value of the '{@link #getDiplome() <em>Diplome</em>}' containment reference list.
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @see #getDiplome()
+	 * @generated
+	 * @ordered
+	 */
+	protected EList<Diplome> diplome;
+
+	/**
+	 * The cached value of the '{@link #getExperience() <em>Experience</em>}' containment reference list.
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @see #getExperience()
+	 * @generated
+	 * @ordered
+	 */
+	protected EList<Experience> experience;
+
+	/**
+	 * The cached value of the '{@link #getContact() <em>Contact</em>}' containment reference.
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @see #getContact()
+	 * @generated
+	 * @ordered
+	 */
+	protected Contact contact;
+
+	/**
+	 * The default value of the '{@link #getPrenom() <em>Prenom</em>}' attribute.
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @see #getPrenom()
+	 * @generated
+	 * @ordered
+	 */
+	protected static final String PRENOM_EDEFAULT = null;
+
+	/**
+	 * The cached value of the '{@link #getPrenom() <em>Prenom</em>}' attribute.
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @see #getPrenom()
+	 * @generated
+	 * @ordered
+	 */
+	protected String prenom = PRENOM_EDEFAULT;
+
+	/**
+	 * The default value of the '{@link #getGenre() <em>Genre</em>}' attribute.
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @see #getGenre()
+	 * @generated
+	 * @ordered
+	 */
+	protected static final char GENRE_EDEFAULT = '\u0000';
+
+	/**
+	 * The cached value of the '{@link #getGenre() <em>Genre</em>}' attribute.
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @see #getGenre()
+	 * @generated
+	 * @ordered
+	 */
+	protected char genre = GENRE_EDEFAULT;
+
+	/**
+	 * The default value of the '{@link #getDateNaissance() <em>Date Naissance</em>}' attribute.
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @see #getDateNaissance()
+	 * @generated
+	 * @ordered
+	 */
+	protected static final Date DATE_NAISSANCE_EDEFAULT = null;
+
+	/**
+	 * The cached value of the '{@link #getDateNaissance() <em>Date Naissance</em>}' attribute.
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @see #getDateNaissance()
+	 * @generated
+	 * @ordered
+	 */
+	protected Date dateNaissance = DATE_NAISSANCE_EDEFAULT;
+
+	/**
+	 * The cached value of the '{@link #getCompetence() <em>Competence</em>}' containment reference list.
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @see #getCompetence()
+	 * @generated
+	 * @ordered
+	 */
+	protected EList<Competence> competence;
+
+	/**
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @generated
+	 */
+	protected CandidatImpl() {
+		super();
+	}
+
+	/**
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @generated
+	 */
+	@Override
+	protected EClass eStaticClass() {
+		return JobSearchPackage.Literals.CANDIDAT;
+	}
+
+	/**
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @generated
+	 */
+	public String getName() {
+		return name;
+	}
+
+	/**
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @generated
+	 */
+	public void setName(String newName) {
+		String oldName = name;
+		name = newName;
+		if (eNotificationRequired())
+			eNotify(new ENotificationImpl(this, Notification.SET, JobSearchPackage.CANDIDAT__NAME, oldName, name));
+	}
+
+	/**
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @generated
+	 */
+	public EList<Diplome> getDiplome() {
+		if (diplome == null) {
+			diplome = new EObjectContainmentEList<Diplome>(Diplome.class, this, JobSearchPackage.CANDIDAT__DIPLOME);
+		}
+		return diplome;
+	}
+
+	/**
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @generated
+	 */
+	public EList<Experience> getExperience() {
+		if (experience == null) {
+			experience = new EObjectContainmentEList<Experience>(Experience.class, this,
+					JobSearchPackage.CANDIDAT__EXPERIENCE);
+		}
+		return experience;
+	}
+
+	/**
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @generated
+	 */
+	public Contact getContact() {
+		return contact;
+	}
+
+	/**
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @generated
+	 */
+	public NotificationChain basicSetContact(Contact newContact, NotificationChain msgs) {
+		Contact oldContact = contact;
+		contact = newContact;
+		if (eNotificationRequired()) {
+			ENotificationImpl notification = new ENotificationImpl(this, Notification.SET,
+					JobSearchPackage.CANDIDAT__CONTACT, oldContact, newContact);
+			if (msgs == null)
+				msgs = notification;
+			else
+				msgs.add(notification);
+		}
+		return msgs;
+	}
+
+	/**
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @generated
+	 */
+	public void setContact(Contact newContact) {
+		if (newContact != contact) {
+			NotificationChain msgs = null;
+			if (contact != null)
+				msgs = ((InternalEObject) contact).eInverseRemove(this,
+						EOPPOSITE_FEATURE_BASE - JobSearchPackage.CANDIDAT__CONTACT, null, msgs);
+			if (newContact != null)
+				msgs = ((InternalEObject) newContact).eInverseAdd(this,
+						EOPPOSITE_FEATURE_BASE - JobSearchPackage.CANDIDAT__CONTACT, null, msgs);
+			msgs = basicSetContact(newContact, msgs);
+			if (msgs != null)
+				msgs.dispatch();
+		} else if (eNotificationRequired())
+			eNotify(new ENotificationImpl(this, Notification.SET, JobSearchPackage.CANDIDAT__CONTACT, newContact,
+					newContact));
+	}
+
+	/**
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @generated
+	 */
+	public String getPrenom() {
+		return prenom;
+	}
+
+	/**
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @generated
+	 */
+	public void setPrenom(String newPrenom) {
+		String oldPrenom = prenom;
+		prenom = newPrenom;
+		if (eNotificationRequired())
+			eNotify(new ENotificationImpl(this, Notification.SET, JobSearchPackage.CANDIDAT__PRENOM, oldPrenom,
+					prenom));
+	}
+
+	/**
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @generated
+	 */
+	public char getGenre() {
+		return genre;
+	}
+
+	/**
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @generated
+	 */
+	public void setGenre(char newGenre) {
+		char oldGenre = genre;
+		genre = newGenre;
+		if (eNotificationRequired())
+			eNotify(new ENotificationImpl(this, Notification.SET, JobSearchPackage.CANDIDAT__GENRE, oldGenre, genre));
+	}
+
+	/**
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @generated
+	 */
+	public Date getDateNaissance() {
+		return dateNaissance;
+	}
+
+	/**
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @generated
+	 */
+	public void setDateNaissance(Date newDateNaissance) {
+		Date oldDateNaissance = dateNaissance;
+		dateNaissance = newDateNaissance;
+		if (eNotificationRequired())
+			eNotify(new ENotificationImpl(this, Notification.SET, JobSearchPackage.CANDIDAT__DATE_NAISSANCE,
+					oldDateNaissance, dateNaissance));
+	}
+
+	/**
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @generated
+	 */
+	public EList<Competence> getCompetence() {
+		if (competence == null) {
+			competence = new EObjectContainmentEList<Competence>(Competence.class, this,
+					JobSearchPackage.CANDIDAT__COMPETENCE);
+		}
+		return competence;
+	}
+
+	/**
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @generated
+	 */
+	public void postuler(OffreEmploi offreEmploi) {
+		// TODO: implement this method
+		// Ensure that you remove @generated or mark it @generated NOT
+		throw new UnsupportedOperationException();
+	}
+
+	/**
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @generated
+	 */
+	public OffreEmploi rechercherEmploi(String lieu, String motsCles) {
+		// TODO: implement this method
+		// Ensure that you remove @generated or mark it @generated NOT
+		throw new UnsupportedOperationException();
+	}
+
+	/**
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @generated
+	 */
+	@Override
+	public NotificationChain eInverseRemove(InternalEObject otherEnd, int featureID, NotificationChain msgs) {
+		switch (featureID) {
+		case JobSearchPackage.CANDIDAT__DIPLOME:
+			return ((InternalEList<?>) getDiplome()).basicRemove(otherEnd, msgs);
+		case JobSearchPackage.CANDIDAT__EXPERIENCE:
+			return ((InternalEList<?>) getExperience()).basicRemove(otherEnd, msgs);
+		case JobSearchPackage.CANDIDAT__CONTACT:
+			return basicSetContact(null, msgs);
+		case JobSearchPackage.CANDIDAT__COMPETENCE:
+			return ((InternalEList<?>) getCompetence()).basicRemove(otherEnd, msgs);
+		}
+		return super.eInverseRemove(otherEnd, featureID, msgs);
+	}
+
+	/**
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @generated
+	 */
+	@Override
+	public Object eGet(int featureID, boolean resolve, boolean coreType) {
+		switch (featureID) {
+		case JobSearchPackage.CANDIDAT__NAME:
+			return getName();
+		case JobSearchPackage.CANDIDAT__DIPLOME:
+			return getDiplome();
+		case JobSearchPackage.CANDIDAT__EXPERIENCE:
+			return getExperience();
+		case JobSearchPackage.CANDIDAT__CONTACT:
+			return getContact();
+		case JobSearchPackage.CANDIDAT__PRENOM:
+			return getPrenom();
+		case JobSearchPackage.CANDIDAT__GENRE:
+			return getGenre();
+		case JobSearchPackage.CANDIDAT__DATE_NAISSANCE:
+			return getDateNaissance();
+		case JobSearchPackage.CANDIDAT__COMPETENCE:
+			return getCompetence();
+		}
+		return super.eGet(featureID, resolve, coreType);
+	}
+
+	/**
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @generated
+	 */
+	@SuppressWarnings("unchecked")
+	@Override
+	public void eSet(int featureID, Object newValue) {
+		switch (featureID) {
+		case JobSearchPackage.CANDIDAT__NAME:
+			setName((String) newValue);
+			return;
+		case JobSearchPackage.CANDIDAT__DIPLOME:
+			getDiplome().clear();
+			getDiplome().addAll((Collection<? extends Diplome>) newValue);
+			return;
+		case JobSearchPackage.CANDIDAT__EXPERIENCE:
+			getExperience().clear();
+			getExperience().addAll((Collection<? extends Experience>) newValue);
+			return;
+		case JobSearchPackage.CANDIDAT__CONTACT:
+			setContact((Contact) newValue);
+			return;
+		case JobSearchPackage.CANDIDAT__PRENOM:
+			setPrenom((String) newValue);
+			return;
+		case JobSearchPackage.CANDIDAT__GENRE:
+			setGenre((Character) newValue);
+			return;
+		case JobSearchPackage.CANDIDAT__DATE_NAISSANCE:
+			setDateNaissance((Date) newValue);
+			return;
+		case JobSearchPackage.CANDIDAT__COMPETENCE:
+			getCompetence().clear();
+			getCompetence().addAll((Collection<? extends Competence>) newValue);
+			return;
+		}
+		super.eSet(featureID, newValue);
+	}
+
+	/**
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @generated
+	 */
+	@Override
+	public void eUnset(int featureID) {
+		switch (featureID) {
+		case JobSearchPackage.CANDIDAT__NAME:
+			setName(NAME_EDEFAULT);
+			return;
+		case JobSearchPackage.CANDIDAT__DIPLOME:
+			getDiplome().clear();
+			return;
+		case JobSearchPackage.CANDIDAT__EXPERIENCE:
+			getExperience().clear();
+			return;
+		case JobSearchPackage.CANDIDAT__CONTACT:
+			setContact((Contact) null);
+			return;
+		case JobSearchPackage.CANDIDAT__PRENOM:
+			setPrenom(PRENOM_EDEFAULT);
+			return;
+		case JobSearchPackage.CANDIDAT__GENRE:
+			setGenre(GENRE_EDEFAULT);
+			return;
+		case JobSearchPackage.CANDIDAT__DATE_NAISSANCE:
+			setDateNaissance(DATE_NAISSANCE_EDEFAULT);
+			return;
+		case JobSearchPackage.CANDIDAT__COMPETENCE:
+			getCompetence().clear();
+			return;
+		}
+		super.eUnset(featureID);
+	}
+
+	/**
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @generated
+	 */
+	@Override
+	public boolean eIsSet(int featureID) {
+		switch (featureID) {
+		case JobSearchPackage.CANDIDAT__NAME:
+			return NAME_EDEFAULT == null ? name != null : !NAME_EDEFAULT.equals(name);
+		case JobSearchPackage.CANDIDAT__DIPLOME:
+			return diplome != null && !diplome.isEmpty();
+		case JobSearchPackage.CANDIDAT__EXPERIENCE:
+			return experience != null && !experience.isEmpty();
+		case JobSearchPackage.CANDIDAT__CONTACT:
+			return contact != null;
+		case JobSearchPackage.CANDIDAT__PRENOM:
+			return PRENOM_EDEFAULT == null ? prenom != null : !PRENOM_EDEFAULT.equals(prenom);
+		case JobSearchPackage.CANDIDAT__GENRE:
+			return genre != GENRE_EDEFAULT;
+		case JobSearchPackage.CANDIDAT__DATE_NAISSANCE:
+			return DATE_NAISSANCE_EDEFAULT == null ? dateNaissance != null
+					: !DATE_NAISSANCE_EDEFAULT.equals(dateNaissance);
+		case JobSearchPackage.CANDIDAT__COMPETENCE:
+			return competence != null && !competence.isEmpty();
+		}
+		return super.eIsSet(featureID);
+	}
+
+	/**
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @generated
+	 */
+	@Override
+	public Object eInvoke(int operationID, EList<?> arguments) throws InvocationTargetException {
+		switch (operationID) {
+		case JobSearchPackage.CANDIDAT___POSTULER__OFFREEMPLOI:
+			postuler((OffreEmploi) arguments.get(0));
+			return null;
+		case JobSearchPackage.CANDIDAT___RECHERCHER_EMPLOI__STRING_STRING:
+			return rechercherEmploi((String) arguments.get(0), (String) arguments.get(1));
+		}
+		return super.eInvoke(operationID, arguments);
+	}
+
+	/**
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @generated
+	 */
+	@Override
+	public String toString() {
+		if (eIsProxy())
+			return super.toString();
+
+		StringBuilder result = new StringBuilder(super.toString());
+		result.append(" (name: ");
+		result.append(name);
+		result.append(", prenom: ");
+		result.append(prenom);
+		result.append(", genre: ");
+		result.append(genre);
+		result.append(", dateNaissance: ");
+		result.append(dateNaissance);
+		result.append(')');
+		return result.toString();
+	}
+
+} //CandidatImpl

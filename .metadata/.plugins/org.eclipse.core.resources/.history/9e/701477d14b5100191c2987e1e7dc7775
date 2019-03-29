@@ -1,0 +1,65 @@
+#
+
+pluginName = org.lpdql.jobSearch Edit Support
+providerName = www.example.org
+
+_UI_CreateChild_text = {0}
+_UI_CreateChild_text2 = {1} {0}
+_UI_CreateChild_text3 = {1}
+_UI_CreateChild_tooltip = Create New {0} Under {1} Feature
+_UI_CreateChild_description = Create a new child of type {0} for the {1} feature of the selected {2}.
+_UI_CreateSibling_description = Create a new sibling of type {0} for the selected {2}, under the {1} feature of their parent.
+
+_UI_PropertyDescriptor_description = The {0} of the {1}
+
+_UI_Entreprise_type = Entreprise
+_UI_Candidat_type = Candidat
+_UI_OffreEmploi_type = Offre Emploi
+_UI_Diplome_type = Diplome
+_UI_Experience_type = Experience
+_UI_Contact_type = Contact
+_UI_Competence_type = Competence
+_UI_Unknown_type = Object
+
+_UI_Unknown_datatype= Value
+
+_UI_Entreprise_poster_feature = Poster
+_UI_Entreprise_contact_feature = Contact
+_UI_Entreprise_nom_feature = Nom
+_UI_Entreprise_domaine_feature = Domaine
+_UI_Entreprise_description_feature = Description
+_UI_Candidat_diplome_feature = Diplome
+_UI_Candidat_experience_feature = Experience
+_UI_Candidat_contact_feature = Contact
+_UI_Candidat_nom_feature = Nom
+_UI_Candidat_prenom_feature = Prenom
+_UI_Candidat_genre_feature = Genre
+_UI_Candidat_dateNaissance_feature = Date Naissance
+_UI_Candidat_competence_feature = Competence
+_UI_OffreEmploi_titre_feature = Titre
+_UI_OffreEmploi_datePublication_feature = Date Publication
+_UI_OffreEmploi_description_feature = Description
+_UI_OffreEmploi_typeContrat_feature = Type Contrat
+_UI_OffreEmploi_niveauEtude_feature = Niveau Etude
+_UI_OffreEmploi_niveauExperience_feature = Niveau Experience
+_UI_OffreEmploi_villeEmploi_feature = Ville Emploi
+_UI_OffreEmploi_candidat_feature = Candidat
+_UI_Diplome_niveau_feature = Niveau
+_UI_Diplome_domaine_feature = Domaine
+_UI_Diplome_anneeObtention_feature = Annee Obtention
+_UI_Diplome_etablissement_feature = Etablissement
+_UI_Experience_entreprise_feature = Entreprise
+_UI_Experience_dateDebut_feature = Date Debut
+_UI_Experience_dateFin_feature = Date Fin
+_UI_Experience_poste_feature = Poste
+_UI_Contact_adresse_feature = Adresse
+_UI_Contact_ville_feature = Ville
+_UI_Contact_codePostal_feature = Code Postal
+_UI_Contact_telephone_feature = Telephone
+_UI_Contact_email_feature = Email
+_UI_Competence_nom_feature = Nom
+_UI_Unknown_feature = Unspecified
+
+_UI_JobSearch_type = Job Search
+_UI_JobSearch_candidat_feature = Candidat
+_UI_JobSearch_entreprise_feature = Entreprise

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.0"?>
+
+<!--
+-->
+
+<plugin>
+
+   <extension point="org.eclipse.ui.newWizards">
+      <!-- @generated jobSearch -->
+      <category
+            id="org.eclipse.emf.ecore.Wizard.category.ID"
+            name="%_UI_Wizard_category"/>
+      <wizard
+            id="org.lpdql.jobSearch.presentation.JobSearchModelWizardID"
+            name="%_UI_JobSearchModelWizard_label"
+            class="org.lpdql.jobSearch.presentation.JobSearchModelWizard"
+            category="org.eclipse.emf.ecore.Wizard.category.ID"
+            icon="icons/full/obj16/JobSearchModelFile.gif">
+         <description>%_UI_JobSearchModelWizard_description</description>
+         <selection class="org.eclipse.core.resources.IResource"/>
+      </wizard>
+   </extension>
+
+   <extension point="org.eclipse.ui.editors">
+      <!-- @generated jobSearch -->
+      <editor
+            id="org.lpdql.jobSearch.presentation.JobSearchEditorID"
+            name="%_UI_JobSearchEditor_label"
+            icon="icons/full/obj16/JobSearchModelFile.gif"
+            extensions="jobsearch"
+            class="org.lpdql.jobSearch.presentation.JobSearchEditor"
+            contributorClass="org.lpdql.jobSearch.presentation.JobSearchActionBarContributor">
+      </editor>
+   </extension>
+
+</plugin>

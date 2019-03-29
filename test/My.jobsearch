@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jobSearch:JobSearch xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:jobSearch="http://www.example.org/jobSearch" name="Pole emploi">
+  <candidat name="Dupont" prenom="Jean-Michel" genre="72" dateNaissance="1995-12-05T00:00:00.000+0100">
+    <diplome/>
+    <experience/>
+    <contact/>
+    <competence/>
+  </candidat>
+  <entreprise name="JairBus" domaine="Air" description="Nous fabriquons de l'air">
+    <contact adresse="36 Boulevard des Goelands" ville="Toulouse" codePostal="31400" telephone="645789562" email="recrutement@jairbus.fr"/>
+    <publier titre="Souffleur d'air" datePublication="2019-03-29T00:00:00.000+0100" description="On cherche un souffleur" typeContrat="CDI" niveauEtude="Bac +5" niveauExperience="2" villeEmploi="Toulouse"/>
+    <publier titre="Responsable Qualite Air" datePublication="2019-01-26T00:00:00.000+0100" description="La qualite de l'air est importante pour nous" typeContrat="CDI" niveauEtude="Bac +5" niveauExperience="3" villeEmploi="Toulouse"/>
+    <publier titre="Stage Conducteur d'air" datePublication="2019-02-12T00:00:00.000+0100" description="Pour guider les courants d'air" typeContrat="Stage" niveauEtude="Bac +2/+3" niveauExperience="1" villeEmploi="Toulouse"/>
+  </entreprise>
+  <entreprise name="Facebook" domaine="Social" description="Reseau social qui vends vos donnees">
+    <publier titre="Developpeur banal" datePublication="2019-03-28T00:00:00.000+0100" description="Developpeur qui aime les donnees" typeContrat="CDD" villeEmploi="Dusseldorf"/>
+  </entreprise>
+</jobSearch:JobSearch>
