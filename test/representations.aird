@@ -25,7 +25,7 @@
             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_R4hFclI4EembDJQ0RWyWbA"/>
           </children>
           <styles xmi:type="notation:ShapeStyle" xmi:id="_R4VfQVI4EembDJQ0RWyWbA" fontName="Segoe UI" fontHeight="12"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_R4VfQlI4EembDJQ0RWyWbA" x="348" y="365" width="30" height="30"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_R4VfQlI4EembDJQ0RWyWbA" x="501" y="397" width="30" height="30"/>
         </children>
         <children xmi:type="notation:Node" xmi:id="_R4eCIFI4EembDJQ0RWyWbA" type="2001" element="_R3-58FI4EembDJQ0RWyWbA">
           <children xmi:type="notation:Node" xmi:id="_R4epMFI4EembDJQ0RWyWbA" type="5002">
@@ -36,18 +36,18 @@
             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_R4hsglI4EembDJQ0RWyWbA"/>
           </children>
           <styles xmi:type="notation:ShapeStyle" xmi:id="_R4eCIVI4EembDJQ0RWyWbA" fontName="Segoe UI" fontHeight="12"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_R4eCIlI4EembDJQ0RWyWbA" x="348" y="208" width="30" height="30"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_R4eCIlI4EembDJQ0RWyWbA" x="501" y="199" width="30" height="30"/>
         </children>
         <children xmi:type="notation:Node" xmi:id="_g9m1QFI4EembDJQ0RWyWbA" type="2001" element="_g9KJUVI4EembDJQ0RWyWbA">
           <children xmi:type="notation:Node" xmi:id="_g9ncUFI4EembDJQ0RWyWbA" type="5002">
-            <layoutConstraint xmi:type="notation:Location" xmi:id="_g9ncUVI4EembDJQ0RWyWbA" y="5"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_g9ncUVI4EembDJQ0RWyWbA" x="6" y="5"/>
           </children>
           <children xmi:type="notation:Node" xmi:id="_pz12IFI4EembDJQ0RWyWbA" type="3004" element="_pzc0klI4EembDJQ0RWyWbA">
             <styles xmi:type="notation:ShapeStyle" xmi:id="_pz12IVI4EembDJQ0RWyWbA" fontName="Segoe UI"/>
             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_pz12IlI4EembDJQ0RWyWbA"/>
           </children>
           <styles xmi:type="notation:ShapeStyle" xmi:id="_g9m1QVI4EembDJQ0RWyWbA" fontName="Segoe UI"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_g9m1QlI4EembDJQ0RWyWbA" x="144" y="66" width="20" height="20"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_g9m1QlI4EembDJQ0RWyWbA" x="14" y="318" width="26" height="25"/>
         </children>
         <children xmi:type="notation:Node" xmi:id="_zM0XsFI4EembDJQ0RWyWbA" type="2002" element="_zMBtgFI4EembDJQ0RWyWbA">
           <children xmi:type="notation:Node" xmi:id="_zM1l0FI4EembDJQ0RWyWbA" type="5006"/>
@@ -56,7 +56,7 @@
             <styles xmi:type="notation:FilteringStyle" xmi:id="_zM3bAlI4EembDJQ0RWyWbA"/>
           </children>
           <styles xmi:type="notation:ShapeStyle" xmi:id="_zM0XsVI4EembDJQ0RWyWbA" fontName="Segoe UI"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_zM0XslI4EembDJQ0RWyWbA" x="130" y="365" width="162"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_zM0XslI4EembDJQ0RWyWbA" x="276" y="378" width="162"/>
         </children>
         <children xmi:type="notation:Node" xmi:id="_zM4CEFI4EembDJQ0RWyWbA" type="2002" element="_zMC7oFI4EembDJQ0RWyWbA">
           <children xmi:type="notation:Node" xmi:id="_zM4pIFI4EembDJQ0RWyWbA" type="5006"/>
@@ -65,7 +65,7 @@
             <styles xmi:type="notation:FilteringStyle" xmi:id="_zM53QlI4EembDJQ0RWyWbA"/>
           </children>
           <styles xmi:type="notation:ShapeStyle" xmi:id="_zM4CEVI4EembDJQ0RWyWbA" fontName="Segoe UI"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_zM4CElI4EembDJQ0RWyWbA" x="42" y="426" width="250"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_zM4CElI4EembDJQ0RWyWbA" x="188" y="474" width="250"/>
         </children>
         <children xmi:type="notation:Node" xmi:id="_zM53Q1I4EembDJQ0RWyWbA" type="2002" element="_zMC7oVI4EembDJQ0RWyWbA">
           <children xmi:type="notation:Node" xmi:id="_zM6eUFI4EembDJQ0RWyWbA" type="5006"/>
@@ -74,7 +74,7 @@
             <styles xmi:type="notation:FilteringStyle" xmi:id="_zM6eU1I4EembDJQ0RWyWbA"/>
           </children>
           <styles xmi:type="notation:ShapeStyle" xmi:id="_zM53RFI4EembDJQ0RWyWbA" fontName="Segoe UI"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_zM53RVI4EembDJQ0RWyWbA" x="39" y="299" width="255"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_zM53RVI4EembDJQ0RWyWbA" x="185" y="282" width="255"/>
         </children>
         <children xmi:type="notation:Node" xmi:id="_zM6eVFI4EembDJQ0RWyWbA" type="2002" element="_zMDisFI4EembDJQ0RWyWbA">
           <children xmi:type="notation:Node" xmi:id="_zM7FYFI4EembDJQ0RWyWbA" type="5006"/>
@@ -83,12 +83,311 @@
             <styles xmi:type="notation:FilteringStyle" xmi:id="_zM7FY1I4EembDJQ0RWyWbA"/>
           </children>
           <styles xmi:type="notation:ShapeStyle" xmi:id="_zM6eVVI4EembDJQ0RWyWbA" fontName="Segoe UI"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_zM6eVlI4EembDJQ0RWyWbA" x="42" y="204" width="225"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_zM6eVlI4EembDJQ0RWyWbA" x="215" y="180" width="225"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_QdWrYFUfEemKpNKjNGKE2w" type="2001" element="_QdNhdVUfEemKpNKjNGKE2w">
+          <children xmi:type="notation:Node" xmi:id="_QdX5gFUfEemKpNKjNGKE2w" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_QdX5gVUfEemKpNKjNGKE2w" x="31" y="5"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_QdcyAFUfEemKpNKjNGKE2w" type="3004" element="_QdPWoFUfEemKpNKjNGKE2w">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_QdcyAVUfEemKpNKjNGKE2w" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_QdcyAlUfEemKpNKjNGKE2w"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_QdWrYVUfEemKpNKjNGKE2w" fontName="Segoe UI" fontHeight="12"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_QdWrYlUfEemKpNKjNGKE2w" x="12" y="416" width="30" height="30"/>
         </children>
         <styles xmi:type="notation:DiagramStyle" xmi:id="_LeLfQlI4EembDJQ0RWyWbA"/>
+        <edges xmi:type="notation:Edge" xmi:id="_ik40wFI7EembDJQ0RWyWbA" visible="false" type="4001" element="_ikQioFI7EembDJQ0RWyWbA" source="_R4VfQFI4EembDJQ0RWyWbA" target="_zM0XsFI4EembDJQ0RWyWbA">
+          <children xmi:type="notation:Node" xmi:id="_ik6C4FI7EembDJQ0RWyWbA" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ik6C4VI7EembDJQ0RWyWbA" x="1" y="-10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_ik6p8FI7EembDJQ0RWyWbA" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ik6p8VI7EembDJQ0RWyWbA" y="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_ik6p8lI7EembDJQ0RWyWbA" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ik6p81I7EembDJQ0RWyWbA" x="1" y="11"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_ik40wVI7EembDJQ0RWyWbA"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_ik40wlI7EembDJQ0RWyWbA" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_ik40w1I7EembDJQ0RWyWbA" points="[-15, 0, 194, -4]$[-129, 2, 80, -2]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_ilAJgFI7EembDJQ0RWyWbA" id="(0.5,0.5)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_ilAJgVI7EembDJQ0RWyWbA" id="(0.5,0.5)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_ilAJglI7EembDJQ0RWyWbA" visible="false" type="4001" element="_ikRJtFI7EembDJQ0RWyWbA" source="_R4VfQFI4EembDJQ0RWyWbA" target="_zM4CEFI4EembDJQ0RWyWbA">
+          <children xmi:type="notation:Node" xmi:id="_ilAwkFI7EembDJQ0RWyWbA" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ilAwkVI7EembDJQ0RWyWbA" y="-10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_ilAwklI7EembDJQ0RWyWbA" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ilAwk1I7EembDJQ0RWyWbA" y="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_ilAwlFI7EembDJQ0RWyWbA" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ilAwlVI7EembDJQ0RWyWbA" y="10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_ilAJg1I7EembDJQ0RWyWbA"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_ilAJhFI7EembDJQ0RWyWbA" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_ilAJhVI7EembDJQ0RWyWbA" points="[0, 0, 196, -45]$[-196, 45, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_ilAwllI7EembDJQ0RWyWbA" id="(0.5,0.5)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_ilAwl1I7EembDJQ0RWyWbA" id="(0.5,0.5)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_ilAwmFI7EembDJQ0RWyWbA" visible="false" type="4001" element="_ikRwwlI7EembDJQ0RWyWbA" source="_R4VfQFI4EembDJQ0RWyWbA" target="_zM53Q1I4EembDJQ0RWyWbA">
+          <children xmi:type="notation:Node" xmi:id="_ilAwnFI7EembDJQ0RWyWbA" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ilAwnVI7EembDJQ0RWyWbA" y="-10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_ilBXoFI7EembDJQ0RWyWbA" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ilBXoVI7EembDJQ0RWyWbA" x="2" y="11"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_ilBXolI7EembDJQ0RWyWbA" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ilBXo1I7EembDJQ0RWyWbA" x="1" y="11"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_ilAwmVI7EembDJQ0RWyWbA"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_ilAwmlI7EembDJQ0RWyWbA" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_ilAwm1I7EembDJQ0RWyWbA" points="[-15, -5, 195, 56]$[-145, -42, 65, 19]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_ilB-sFI7EembDJQ0RWyWbA" id="(0.5,0.5)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_ilB-sVI7EembDJQ0RWyWbA" id="(0.5,0.5)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_ilB-slI7EembDJQ0RWyWbA" visible="false" type="4001" element="_ikRwx1I7EembDJQ0RWyWbA" source="_R4eCIFI4EembDJQ0RWyWbA" target="_zM6eVFI4EembDJQ0RWyWbA">
+          <children xmi:type="notation:Node" xmi:id="_ilB-tlI7EembDJQ0RWyWbA" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ilB-t1I7EembDJQ0RWyWbA" y="-10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_ilB-uFI7EembDJQ0RWyWbA" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ilB-uVI7EembDJQ0RWyWbA" y="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_ilB-ulI7EembDJQ0RWyWbA" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ilB-u1I7EembDJQ0RWyWbA" y="10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_ilB-s1I7EembDJQ0RWyWbA"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_ilB-tFI7EembDJQ0RWyWbA" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_ilB-tVI7EembDJQ0RWyWbA" points="[-15, -2, 175, 18]$[-181, -19, 9, 1]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_ilClwFI7EembDJQ0RWyWbA" id="(0.5,0.5)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_ilClwVI7EembDJQ0RWyWbA" id="(0.5,0.5)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_5DMHAFUeEemKpNKjNGKE2w" visible="false" type="4001" element="_5Ctl4VUeEemKpNKjNGKE2w" source="_R4VfQFI4EembDJQ0RWyWbA" target="_zM0XsFI4EembDJQ0RWyWbA">
+          <children xmi:type="notation:Node" xmi:id="_5DUC0FUeEemKpNKjNGKE2w" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5DUC0VUeEemKpNKjNGKE2w" y="-10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_5DV4AFUeEemKpNKjNGKE2w" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5DV4AVUeEemKpNKjNGKE2w" y="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_5DXGIFUeEemKpNKjNGKE2w" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5DXGIVUeEemKpNKjNGKE2w" y="10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_5DMHAVUeEemKpNKjNGKE2w"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_5DMHAlUeEemKpNKjNGKE2w" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_5DMHA1UeEemKpNKjNGKE2w" points="[-15, -2, 193, 14]$[-195, -15, 13, 1]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_5DfpAFUeEemKpNKjNGKE2w" id="(0.5,0.5)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_5DfpAVUeEemKpNKjNGKE2w" id="(0.5,0.5)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_5DfpAlUeEemKpNKjNGKE2w" visible="false" type="4001" element="_5CxQQlUeEemKpNKjNGKE2w" source="_R4VfQFI4EembDJQ0RWyWbA" target="_zM4CEFI4EembDJQ0RWyWbA">
+          <children xmi:type="notation:Node" xmi:id="_5DgQEFUeEemKpNKjNGKE2w" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5DgQEVUeEemKpNKjNGKE2w" y="-10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_5DgQElUeEemKpNKjNGKE2w" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5DgQE1UeEemKpNKjNGKE2w" y="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_5DgQFFUeEemKpNKjNGKE2w" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5DgQFVUeEemKpNKjNGKE2w" y="10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_5DfpA1UeEemKpNKjNGKE2w"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_5DfpBFUeEemKpNKjNGKE2w" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_5DfpBVUeEemKpNKjNGKE2w" points="[0, 0, 196, -45]$[-196, 45, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_5DgQFlUeEemKpNKjNGKE2w" id="(0.5,0.5)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_5DgQF1UeEemKpNKjNGKE2w" id="(0.5,0.5)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_5DgQGFUeEemKpNKjNGKE2w" visible="false" type="4001" element="_5Cx3VFUeEemKpNKjNGKE2w" source="_R4VfQFI4EembDJQ0RWyWbA" target="_zM53Q1I4EembDJQ0RWyWbA">
+          <children xmi:type="notation:Node" xmi:id="_5DgQHFUeEemKpNKjNGKE2w" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5DgQHVUeEemKpNKjNGKE2w" y="-10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_5DgQHlUeEemKpNKjNGKE2w" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5DgQH1UeEemKpNKjNGKE2w" y="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_5DgQIFUeEemKpNKjNGKE2w" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5DgQIVUeEemKpNKjNGKE2w" y="10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_5DgQGVUeEemKpNKjNGKE2w"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_5DgQGlUeEemKpNKjNGKE2w" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_5DgQG1UeEemKpNKjNGKE2w" points="[-15, -6, 193, 75]$[-206, -80, 2, 1]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_5Dg3IFUeEemKpNKjNGKE2w" id="(0.5,0.5)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_5Dg3IVUeEemKpNKjNGKE2w" id="(0.5,0.5)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_5Dg3IlUeEemKpNKjNGKE2w" visible="false" type="4001" element="_5CyeZFUeEemKpNKjNGKE2w" source="_R4eCIFI4EembDJQ0RWyWbA" target="_zM6eVFI4EembDJQ0RWyWbA">
+          <children xmi:type="notation:Node" xmi:id="_5Dg3JlUeEemKpNKjNGKE2w" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5Dg3J1UeEemKpNKjNGKE2w" y="-10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_5Dg3KFUeEemKpNKjNGKE2w" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5Dg3KVUeEemKpNKjNGKE2w" y="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_5Dg3KlUeEemKpNKjNGKE2w" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5Dg3K1UeEemKpNKjNGKE2w" y="10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_5Dg3I1UeEemKpNKjNGKE2w"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_5Dg3JFUeEemKpNKjNGKE2w" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_5Dg3JVUeEemKpNKjNGKE2w" points="[-15, -2, 175, 18]$[-181, -19, 9, 1]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_5Dg3LFUeEemKpNKjNGKE2w" id="(0.5,0.5)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_5Dg3LVUeEemKpNKjNGKE2w" id="(0.5,0.5)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_5Dg3LlUeEemKpNKjNGKE2w" visible="false" type="4001" element="_5CzsgFUeEemKpNKjNGKE2w" source="_zM0XsFI4EembDJQ0RWyWbA" target="_g9m1QFI4EembDJQ0RWyWbA">
+          <children xmi:type="notation:Node" xmi:id="_5DheMFUeEemKpNKjNGKE2w" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5DheMVUeEemKpNKjNGKE2w" y="-10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_5DheMlUeEemKpNKjNGKE2w" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5DheM1UeEemKpNKjNGKE2w" y="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_5DheNFUeEemKpNKjNGKE2w" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5DheNVUeEemKpNKjNGKE2w" y="10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_5Dg3L1UeEemKpNKjNGKE2w"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_5Dg3MFUeEemKpNKjNGKE2w" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_5Dg3MVUeEemKpNKjNGKE2w" points="[0, 0, 55, 270]$[-55, -270, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_5DheNlUeEemKpNKjNGKE2w" id="(0.5,0.5)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_5DheN1UeEemKpNKjNGKE2w" id="(0.6153846153846154,0.4)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_5DheOFUeEemKpNKjNGKE2w" visible="false" type="4001" element="_5C0TkFUeEemKpNKjNGKE2w" source="_zM6eVFI4EembDJQ0RWyWbA" target="_g9m1QFI4EembDJQ0RWyWbA">
+          <children xmi:type="notation:Node" xmi:id="_5DhePFUeEemKpNKjNGKE2w" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5DhePVUeEemKpNKjNGKE2w" y="-10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_5DhePlUeEemKpNKjNGKE2w" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5DheP1UeEemKpNKjNGKE2w" y="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_5DheQFUeEemKpNKjNGKE2w" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5DheQVUeEemKpNKjNGKE2w" y="10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_5DheOVUeEemKpNKjNGKE2w"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_5DheOlUeEemKpNKjNGKE2w" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_5DheO1UeEemKpNKjNGKE2w" points="[0, 0, 73, 109]$[-73, -109, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_5DheQlUeEemKpNKjNGKE2w" id="(0.5,0.5)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_5DiFQFUeEemKpNKjNGKE2w" id="(0.6153846153846154,0.4)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_9qUDIFUeEemKpNKjNGKE2w" type="4001" element="_9p-r81UeEemKpNKjNGKE2w" source="_R4VfQFI4EembDJQ0RWyWbA" target="_zM0XsFI4EembDJQ0RWyWbA">
+          <children xmi:type="notation:Node" xmi:id="_9qUqMFUeEemKpNKjNGKE2w" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9qUqMVUeEemKpNKjNGKE2w" x="-1" y="-8"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_9qVRQFUeEemKpNKjNGKE2w" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9qVRQVUeEemKpNKjNGKE2w" x="3" y="11"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_9qVRQlUeEemKpNKjNGKE2w" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9qVRQ1UeEemKpNKjNGKE2w" x="2" y="12"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_9qUDIVUeEemKpNKjNGKE2w"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_9qUDIlUeEemKpNKjNGKE2w" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_9qUDI1UeEemKpNKjNGKE2w" points="[-15, 0, 145, 0]$[-80, 0, 80, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_9qV4UFUeEemKpNKjNGKE2w" id="(0.5,0.5)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_9qV4UVUeEemKpNKjNGKE2w" id="(0.5,0.5)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_9qWfYFUeEemKpNKjNGKE2w" type="4001" element="_9p_TBFUeEemKpNKjNGKE2w" source="_R4VfQFI4EembDJQ0RWyWbA" target="_zM4CEFI4EembDJQ0RWyWbA">
+          <children xmi:type="notation:Node" xmi:id="_9qXtgFUeEemKpNKjNGKE2w" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9qXtgVUeEemKpNKjNGKE2w" x="5" y="-6"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_9qXtglUeEemKpNKjNGKE2w" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9qXtg1UeEemKpNKjNGKE2w" x="-4" y="12"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_9qXthFUeEemKpNKjNGKE2w" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9qXthVUeEemKpNKjNGKE2w" x="-5" y="10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_9qWfYVUeEemKpNKjNGKE2w"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_9qWfYlUeEemKpNKjNGKE2w" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_9qWfY1UeEemKpNKjNGKE2w" points="[-12, 8, 72, -96]$[-80, 99, 4, -5]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_9qYUkFUeEemKpNKjNGKE2w" id="(0.5,0.5)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_9qYUkVUeEemKpNKjNGKE2w" id="(0.9838709677419355,0.6176470588235294)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_9qYUklUeEemKpNKjNGKE2w" type="4001" element="_9p_6FFUeEemKpNKjNGKE2w" source="_R4VfQFI4EembDJQ0RWyWbA" target="_zM53Q1I4EembDJQ0RWyWbA">
+          <children xmi:type="notation:Node" xmi:id="_9qY7oFUeEemKpNKjNGKE2w" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9qY7oVUeEemKpNKjNGKE2w" x="-1" y="-7"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_9qY7olUeEemKpNKjNGKE2w" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9qY7o1UeEemKpNKjNGKE2w" x="10" y="8"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_9qY7pFUeEemKpNKjNGKE2w" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9qY7pVUeEemKpNKjNGKE2w" x="12" y="9"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_9qYUk1UeEemKpNKjNGKE2w"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_9qYUlFUeEemKpNKjNGKE2w" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_9qYUlVUeEemKpNKjNGKE2w" points="[-12, -8, 71, 97]$[-78, -100, 5, 5]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_9qZisFUeEemKpNKjNGKE2w" id="(0.5,0.5)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_9qZisVUeEemKpNKjNGKE2w" id="(0.9802371541501976,0.36764705882352944)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_9qaJwFUeEemKpNKjNGKE2w" type="4001" element="_9p_6GVUeEemKpNKjNGKE2w" source="_R4eCIFI4EembDJQ0RWyWbA" target="_zM6eVFI4EembDJQ0RWyWbA">
+          <children xmi:type="notation:Node" xmi:id="_9qaJxFUeEemKpNKjNGKE2w" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9qaJxVUeEemKpNKjNGKE2w" y="-10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_9qaw0FUeEemKpNKjNGKE2w" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9qaw0VUeEemKpNKjNGKE2w" x="3" y="11"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_9qaw0lUeEemKpNKjNGKE2w" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9qaw01UeEemKpNKjNGKE2w" x="1" y="10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_9qaJwVUeEemKpNKjNGKE2w"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_9qaJwlUeEemKpNKjNGKE2w" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_9qaJw1UeEemKpNKjNGKE2w" points="[-15, 0, 175, 0]$[-78, 0, 112, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_9qaw1FUeEemKpNKjNGKE2w" id="(0.5,0.5)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_9qaw1VUeEemKpNKjNGKE2w" id="(0.5,0.5)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_9qaw1lUeEemKpNKjNGKE2w" type="4001" element="_9qAhIlUeEemKpNKjNGKE2w" source="_zM0XsFI4EembDJQ0RWyWbA" target="_g9m1QFI4EembDJQ0RWyWbA">
+          <children xmi:type="notation:Node" xmi:id="_9qbX4FUeEemKpNKjNGKE2w" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9qbX4VUeEemKpNKjNGKE2w" x="14" y="-4"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_9qbX4lUeEemKpNKjNGKE2w" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9qbX41UeEemKpNKjNGKE2w" x="-9" y="8"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_9qbX5FUeEemKpNKjNGKE2w" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9qbX5VUeEemKpNKjNGKE2w" x="-3" y="9"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_9qaw11UeEemKpNKjNGKE2w"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_9qaw2FUeEemKpNKjNGKE2w" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_9qaw2VUeEemKpNKjNGKE2w" points="[0, 4, 246, 87]$[-237, -80, 9, 3]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_9qb-8FUeEemKpNKjNGKE2w" id="(0.0,0.4852941176470588)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_9qb-8VUeEemKpNKjNGKE2w" id="(0.6153846153846154,0.4)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_9qb-8lUeEemKpNKjNGKE2w" type="4001" element="_9qBINFUeEemKpNKjNGKE2w" source="_zM6eVFI4EembDJQ0RWyWbA" target="_g9m1QFI4EembDJQ0RWyWbA">
+          <children xmi:type="notation:Node" xmi:id="_9qb-9lUeEemKpNKjNGKE2w" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9qb-91UeEemKpNKjNGKE2w" x="19" y="-2"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_9qb--FUeEemKpNKjNGKE2w" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9qb--VUeEemKpNKjNGKE2w" x="-11" y="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_9qb--lUeEemKpNKjNGKE2w" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9qb--1UeEemKpNKjNGKE2w" x="-15" y="9"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_9qb-81UeEemKpNKjNGKE2w"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_9qb-9FUeEemKpNKjNGKE2w" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_9qb-9VUeEemKpNKjNGKE2w" points="[-4, 2, 185, -113]$[-179, 108, 10, -7]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_9qcmAFUeEemKpNKjNGKE2w" id="(0.017937219730941704,0.4852941176470588)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_9qcmAVUeEemKpNKjNGKE2w" id="(0.6153846153846154,0.4)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_Tx8BkFUfEemKpNKjNGKE2w" type="4001" element="_Tx4-SFUfEemKpNKjNGKE2w" source="_zM0XsFI4EembDJQ0RWyWbA" target="_QdWrYFUfEemKpNKjNGKE2w">
+          <children xmi:type="notation:Node" xmi:id="_Tx8BlFUfEemKpNKjNGKE2w" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Tx8BlVUfEemKpNKjNGKE2w" x="9" y="-5"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_Tx8BllUfEemKpNKjNGKE2w" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Tx8Bl1UfEemKpNKjNGKE2w" x="-7" y="8"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_Tx8BmFUfEemKpNKjNGKE2w" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Tx8BmVUfEemKpNKjNGKE2w" x="-7" y="7"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_Tx8BkVUfEemKpNKjNGKE2w"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_Tx8BklUfEemKpNKjNGKE2w" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_Tx8Bk1UfEemKpNKjNGKE2w" points="[-80, 4, 249, -15]$[-314, 18, 15, -1]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_Tx8ooFUfEemKpNKjNGKE2w" id="(0.5,0.5)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_Tx8ooVUfEemKpNKjNGKE2w" id="(0.5,0.5)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_Tx8oolUfEemKpNKjNGKE2w" type="4001" element="_Tx5lUlUfEemKpNKjNGKE2w" source="_zM4CEFI4EembDJQ0RWyWbA" target="_QdWrYFUfEemKpNKjNGKE2w">
+          <children xmi:type="notation:Node" xmi:id="_Tx8oplUfEemKpNKjNGKE2w" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Tx8op1UfEemKpNKjNGKE2w" x="10" y="-6"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_Tx8oqFUfEemKpNKjNGKE2w" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Tx8oqVUfEemKpNKjNGKE2w" x="-6" y="7"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_Tx8oqlUfEemKpNKjNGKE2w" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Tx8oq1UfEemKpNKjNGKE2w" x="-2" y="8"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_Tx8oo1UfEemKpNKjNGKE2w"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_Tx8opFUfEemKpNKjNGKE2w" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_Tx8opVUfEemKpNKjNGKE2w" points="[-3, -1, 161, 77]$[-152, -71, 12, 7]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_Tx8orFUfEemKpNKjNGKE2w" id="(0.012096774193548387,0.5147058823529411)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_Tx8orVUfEemKpNKjNGKE2w" id="(0.5,0.5)"/>
+        </edges>
       </data>
     </ownedAnnotationEntries>
-    <ownedDiagramElements xmi:type="diagram:DNode" uid="_R3nGgFI4EembDJQ0RWyWbA" name="JairBus" width="3" height="3" resizeKind="NSEW">
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_R3nGgFI4EembDJQ0RWyWbA" name="JairBus" outgoingEdges="_ikQioFI7EembDJQ0RWyWbA _ikRJtFI7EembDJQ0RWyWbA _ikRwwlI7EembDJQ0RWyWbA _5Ctl4VUeEemKpNKjNGKE2w _5CxQQlUeEemKpNKjNGKE2w _5Cx3VFUeEemKpNKjNGKE2w _9p-r81UeEemKpNKjNGKE2w _9p_TBFUeEemKpNKjNGKE2w _9p_6FFUeEemKpNKjNGKE2w" width="3" height="3" resizeKind="NSEW">
       <target xmi:type="jobSearch:Entreprise" href="My.jobsearch#//@entreprise.0"/>
       <semanticElements xmi:type="jobSearch:Entreprise" href="My.jobsearch#//@entreprise.0"/>
       <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
@@ -99,7 +398,7 @@
       </ownedStyle>
       <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/org.lpdql.jobSearch.vp/description/vp.odesign#//@ownedViewpoints[name='myJobSearch']/@ownedRepresentations[name='jobSearchDiagram']/@defaultLayer/@nodeMappings[name='entreprise']"/>
     </ownedDiagramElements>
-    <ownedDiagramElements xmi:type="diagram:DNode" uid="_R3-58FI4EembDJQ0RWyWbA" name="Facebook" width="3" height="3" resizeKind="NSEW">
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_R3-58FI4EembDJQ0RWyWbA" name="Facebook" outgoingEdges="_ikRwx1I7EembDJQ0RWyWbA _5CyeZFUeEemKpNKjNGKE2w _9p_6GVUeEemKpNKjNGKE2w" width="3" height="3" resizeKind="NSEW">
       <target xmi:type="jobSearch:Entreprise" href="My.jobsearch#//@entreprise.1"/>
       <semanticElements xmi:type="jobSearch:Entreprise" href="My.jobsearch#//@entreprise.1"/>
       <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
@@ -110,7 +409,7 @@
       </ownedStyle>
       <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/org.lpdql.jobSearch.vp/description/vp.odesign#//@ownedViewpoints[name='myJobSearch']/@ownedRepresentations[name='jobSearchDiagram']/@defaultLayer/@nodeMappings[name='entreprise']"/>
     </ownedDiagramElements>
-    <ownedDiagramElements xmi:type="diagram:DNode" uid="_g9KJUVI4EembDJQ0RWyWbA" name="Dupont" width="3" height="3" resizeKind="NSEW">
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_g9KJUVI4EembDJQ0RWyWbA" name="Dupont" incomingEdges="_5CzsgFUeEemKpNKjNGKE2w _5C0TkFUeEemKpNKjNGKE2w _9qAhIlUeEemKpNKjNGKE2w _9qBINFUeEemKpNKjNGKE2w" width="3" height="3" resizeKind="NSEW">
       <target xmi:type="jobSearch:Candidat" href="My.jobsearch#//@candidat.0"/>
       <semanticElements xmi:type="jobSearch:Candidat" href="My.jobsearch#//@candidat.0"/>
       <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
@@ -121,7 +420,18 @@
       </ownedStyle>
       <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/org.lpdql.jobSearch.vp/description/vp.odesign#//@ownedViewpoints[name='myJobSearch']/@ownedRepresentations[name='jobSearchDiagram']/@defaultLayer/@nodeMappings[name='candidat']"/>
     </ownedDiagramElements>
-    <ownedDiagramElements xmi:type="diagram:DNodeContainer" uid="_zMBtgFI4EembDJQ0RWyWbA" name="Souffleur d'air">
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_QdNhdVUfEemKpNKjNGKE2w" name="Bertrand" incomingEdges="_Tx4-SFUfEemKpNKjNGKE2w _Tx5lUlUfEemKpNKjNGKE2w" width="3" height="3" resizeKind="NSEW">
+      <target xmi:type="jobSearch:Candidat" href="My.jobsearch#//@candidat.1"/>
+      <semanticElements xmi:type="jobSearch:Candidat" href="My.jobsearch#//@candidat.1"/>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:BundledImage" uid="_QdPWoFUfEemKpNKjNGKE2w" labelSize="12" shape="ring" color="194,239,255">
+        <description xmi:type="style:BundledImageDescription" href="platform:/resource/org.lpdql.jobSearch.vp/description/vp.odesign#//@ownedViewpoints[name='myJobSearch']/@ownedRepresentations[name='jobSearchDiagram']/@defaultLayer/@nodeMappings[name='candidat']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/org.lpdql.jobSearch.vp/description/vp.odesign#//@ownedViewpoints[name='myJobSearch']/@ownedRepresentations[name='jobSearchDiagram']/@defaultLayer/@nodeMappings[name='candidat']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNodeContainer" uid="_zMBtgFI4EembDJQ0RWyWbA" name="Souffleur d'air" outgoingEdges="_5CzsgFUeEemKpNKjNGKE2w _9qAhIlUeEemKpNKjNGKE2w _Tx4-SFUfEemKpNKjNGKE2w" incomingEdges="_ikQioFI7EembDJQ0RWyWbA _5Ctl4VUeEemKpNKjNGKE2w _9p-r81UeEemKpNKjNGKE2w">
       <target xmi:type="jobSearch:OffreEmploi" href="My.jobsearch#//@entreprise.0/@publier.0"/>
       <semanticElements xmi:type="jobSearch:OffreEmploi" href="My.jobsearch#//@entreprise.0/@publier.0"/>
       <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
@@ -132,7 +442,7 @@
       </ownedStyle>
       <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/resource/org.lpdql.jobSearch.vp/description/vp.odesign#//@ownedViewpoints[name='myJobSearch']/@ownedRepresentations[name='jobSearchDiagram']/@defaultLayer/@containerMappings[name='offreemploi']"/>
     </ownedDiagramElements>
-    <ownedDiagramElements xmi:type="diagram:DNodeContainer" uid="_zMC7oFI4EembDJQ0RWyWbA" name="Responsable Qualite Air">
+    <ownedDiagramElements xmi:type="diagram:DNodeContainer" uid="_zMC7oFI4EembDJQ0RWyWbA" name="Responsable Qualite Air" outgoingEdges="_Tx5lUlUfEemKpNKjNGKE2w" incomingEdges="_ikRJtFI7EembDJQ0RWyWbA _5CxQQlUeEemKpNKjNGKE2w _9p_TBFUeEemKpNKjNGKE2w">
       <target xmi:type="jobSearch:OffreEmploi" href="My.jobsearch#//@entreprise.0/@publier.1"/>
       <semanticElements xmi:type="jobSearch:OffreEmploi" href="My.jobsearch#//@entreprise.0/@publier.1"/>
       <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
@@ -143,7 +453,7 @@
       </ownedStyle>
       <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/resource/org.lpdql.jobSearch.vp/description/vp.odesign#//@ownedViewpoints[name='myJobSearch']/@ownedRepresentations[name='jobSearchDiagram']/@defaultLayer/@containerMappings[name='offreemploi']"/>
     </ownedDiagramElements>
-    <ownedDiagramElements xmi:type="diagram:DNodeContainer" uid="_zMC7oVI4EembDJQ0RWyWbA" name="Stage Conducteur d'air">
+    <ownedDiagramElements xmi:type="diagram:DNodeContainer" uid="_zMC7oVI4EembDJQ0RWyWbA" name="Stage Conducteur d'air" incomingEdges="_ikRwwlI7EembDJQ0RWyWbA _5Cx3VFUeEemKpNKjNGKE2w _9p_6FFUeEemKpNKjNGKE2w">
       <target xmi:type="jobSearch:OffreEmploi" href="My.jobsearch#//@entreprise.0/@publier.2"/>
       <semanticElements xmi:type="jobSearch:OffreEmploi" href="My.jobsearch#//@entreprise.0/@publier.2"/>
       <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
@@ -154,7 +464,7 @@
       </ownedStyle>
       <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/resource/org.lpdql.jobSearch.vp/description/vp.odesign#//@ownedViewpoints[name='myJobSearch']/@ownedRepresentations[name='jobSearchDiagram']/@defaultLayer/@containerMappings[name='offreemploi']"/>
     </ownedDiagramElements>
-    <ownedDiagramElements xmi:type="diagram:DNodeContainer" uid="_zMDisFI4EembDJQ0RWyWbA" name="Developpeur banal">
+    <ownedDiagramElements xmi:type="diagram:DNodeContainer" uid="_zMDisFI4EembDJQ0RWyWbA" name="Developpeur banal" outgoingEdges="_5C0TkFUeEemKpNKjNGKE2w _9qBINFUeEemKpNKjNGKE2w" incomingEdges="_ikRwx1I7EembDJQ0RWyWbA _5CyeZFUeEemKpNKjNGKE2w _9p_6GVUeEemKpNKjNGKE2w">
       <target xmi:type="jobSearch:OffreEmploi" href="My.jobsearch#//@entreprise.1/@publier.0"/>
       <semanticElements xmi:type="jobSearch:OffreEmploi" href="My.jobsearch#//@entreprise.1/@publier.0"/>
       <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
@@ -164,6 +474,150 @@
         <description xmi:type="style:FlatContainerStyleDescription" href="platform:/resource/org.lpdql.jobSearch.vp/description/vp.odesign#//@ownedViewpoints[name='myJobSearch']/@ownedRepresentations[name='jobSearchDiagram']/@defaultLayer/@containerMappings[name='offreemploi']/@style"/>
       </ownedStyle>
       <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/resource/org.lpdql.jobSearch.vp/description/vp.odesign#//@ownedViewpoints[name='myJobSearch']/@ownedRepresentations[name='jobSearchDiagram']/@defaultLayer/@containerMappings[name='offreemploi']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_ikQioFI7EembDJQ0RWyWbA" visible="false" sourceNode="_R3nGgFI4EembDJQ0RWyWbA" targetNode="_zMBtgFI4EembDJQ0RWyWbA">
+      <target xmi:type="jobSearch:Entreprise" href="My.jobsearch#//@entreprise.0"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_ikRJsFI7EembDJQ0RWyWbA" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/org.lpdql.jobSearch.vp/description/vp.odesign#//@ownedViewpoints[name='myJobSearch']/@ownedRepresentations[name='jobSearchDiagram']/@defaultLayer/@edgeMappings[name='']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_ikRJsVI7EembDJQ0RWyWbA" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/org.lpdql.jobSearch.vp/description/vp.odesign#//@ownedViewpoints[name='myJobSearch']/@ownedRepresentations[name='jobSearchDiagram']/@defaultLayer/@edgeMappings[name='']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_ikRJtFI7EembDJQ0RWyWbA" visible="false" sourceNode="_R3nGgFI4EembDJQ0RWyWbA" targetNode="_zMC7oFI4EembDJQ0RWyWbA">
+      <target xmi:type="jobSearch:Entreprise" href="My.jobsearch#//@entreprise.0"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_ikRJtVI7EembDJQ0RWyWbA" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/org.lpdql.jobSearch.vp/description/vp.odesign#//@ownedViewpoints[name='myJobSearch']/@ownedRepresentations[name='jobSearchDiagram']/@defaultLayer/@edgeMappings[name='']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_ikRJtlI7EembDJQ0RWyWbA" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/org.lpdql.jobSearch.vp/description/vp.odesign#//@ownedViewpoints[name='myJobSearch']/@ownedRepresentations[name='jobSearchDiagram']/@defaultLayer/@edgeMappings[name='']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_ikRwwlI7EembDJQ0RWyWbA" visible="false" sourceNode="_R3nGgFI4EembDJQ0RWyWbA" targetNode="_zMC7oVI4EembDJQ0RWyWbA">
+      <target xmi:type="jobSearch:Entreprise" href="My.jobsearch#//@entreprise.0"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_ikRww1I7EembDJQ0RWyWbA" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/org.lpdql.jobSearch.vp/description/vp.odesign#//@ownedViewpoints[name='myJobSearch']/@ownedRepresentations[name='jobSearchDiagram']/@defaultLayer/@edgeMappings[name='']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_ikRwxFI7EembDJQ0RWyWbA" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/org.lpdql.jobSearch.vp/description/vp.odesign#//@ownedViewpoints[name='myJobSearch']/@ownedRepresentations[name='jobSearchDiagram']/@defaultLayer/@edgeMappings[name='']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_ikRwx1I7EembDJQ0RWyWbA" visible="false" sourceNode="_R3-58FI4EembDJQ0RWyWbA" targetNode="_zMDisFI4EembDJQ0RWyWbA">
+      <target xmi:type="jobSearch:Entreprise" href="My.jobsearch#//@entreprise.1"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_ikRwyFI7EembDJQ0RWyWbA" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/org.lpdql.jobSearch.vp/description/vp.odesign#//@ownedViewpoints[name='myJobSearch']/@ownedRepresentations[name='jobSearchDiagram']/@defaultLayer/@edgeMappings[name='']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_ikRwyVI7EembDJQ0RWyWbA" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/org.lpdql.jobSearch.vp/description/vp.odesign#//@ownedViewpoints[name='myJobSearch']/@ownedRepresentations[name='jobSearchDiagram']/@defaultLayer/@edgeMappings[name='']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_5Ctl4VUeEemKpNKjNGKE2w" visible="false" sourceNode="_R3nGgFI4EembDJQ0RWyWbA" targetNode="_zMBtgFI4EembDJQ0RWyWbA">
+      <target xmi:type="jobSearch:Entreprise" href="My.jobsearch#//@entreprise.0"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_5CuM8FUeEemKpNKjNGKE2w" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/org.lpdql.jobSearch.vp/description/vp.odesign#//@ownedViewpoints[name='myJobSearch']/@ownedRepresentations[name='jobSearchDiagram']/@defaultLayer/@edgeMappings[name='1']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_5CuM8VUeEemKpNKjNGKE2w" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/org.lpdql.jobSearch.vp/description/vp.odesign#//@ownedViewpoints[name='myJobSearch']/@ownedRepresentations[name='jobSearchDiagram']/@defaultLayer/@edgeMappings[name='1']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_5CxQQlUeEemKpNKjNGKE2w" visible="false" sourceNode="_R3nGgFI4EembDJQ0RWyWbA" targetNode="_zMC7oFI4EembDJQ0RWyWbA">
+      <target xmi:type="jobSearch:Entreprise" href="My.jobsearch#//@entreprise.0"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_5Cx3UFUeEemKpNKjNGKE2w" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/org.lpdql.jobSearch.vp/description/vp.odesign#//@ownedViewpoints[name='myJobSearch']/@ownedRepresentations[name='jobSearchDiagram']/@defaultLayer/@edgeMappings[name='1']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_5Cx3UVUeEemKpNKjNGKE2w" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/org.lpdql.jobSearch.vp/description/vp.odesign#//@ownedViewpoints[name='myJobSearch']/@ownedRepresentations[name='jobSearchDiagram']/@defaultLayer/@edgeMappings[name='1']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_5Cx3VFUeEemKpNKjNGKE2w" visible="false" sourceNode="_R3nGgFI4EembDJQ0RWyWbA" targetNode="_zMC7oVI4EembDJQ0RWyWbA">
+      <target xmi:type="jobSearch:Entreprise" href="My.jobsearch#//@entreprise.0"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_5CyeYFUeEemKpNKjNGKE2w" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/org.lpdql.jobSearch.vp/description/vp.odesign#//@ownedViewpoints[name='myJobSearch']/@ownedRepresentations[name='jobSearchDiagram']/@defaultLayer/@edgeMappings[name='1']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_5CyeYVUeEemKpNKjNGKE2w" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/org.lpdql.jobSearch.vp/description/vp.odesign#//@ownedViewpoints[name='myJobSearch']/@ownedRepresentations[name='jobSearchDiagram']/@defaultLayer/@edgeMappings[name='1']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_5CyeZFUeEemKpNKjNGKE2w" visible="false" sourceNode="_R3-58FI4EembDJQ0RWyWbA" targetNode="_zMDisFI4EembDJQ0RWyWbA">
+      <target xmi:type="jobSearch:Entreprise" href="My.jobsearch#//@entreprise.1"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_5CyeZVUeEemKpNKjNGKE2w" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/org.lpdql.jobSearch.vp/description/vp.odesign#//@ownedViewpoints[name='myJobSearch']/@ownedRepresentations[name='jobSearchDiagram']/@defaultLayer/@edgeMappings[name='1']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_5CyeZlUeEemKpNKjNGKE2w" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/org.lpdql.jobSearch.vp/description/vp.odesign#//@ownedViewpoints[name='myJobSearch']/@ownedRepresentations[name='jobSearchDiagram']/@defaultLayer/@edgeMappings[name='1']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_5CzsgFUeEemKpNKjNGKE2w" visible="false" sourceNode="_zMBtgFI4EembDJQ0RWyWbA" targetNode="_g9KJUVI4EembDJQ0RWyWbA">
+      <target xmi:type="jobSearch:OffreEmploi" href="My.jobsearch#//@entreprise.0/@publier.0"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_5CzsgVUeEemKpNKjNGKE2w" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/org.lpdql.jobSearch.vp/description/vp.odesign#//@ownedViewpoints[name='myJobSearch']/@ownedRepresentations[name='jobSearchDiagram']/@defaultLayer/@edgeMappings[name='2']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_5CzsglUeEemKpNKjNGKE2w" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/org.lpdql.jobSearch.vp/description/vp.odesign#//@ownedViewpoints[name='myJobSearch']/@ownedRepresentations[name='jobSearchDiagram']/@defaultLayer/@edgeMappings[name='2']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_5C0TkFUeEemKpNKjNGKE2w" visible="false" sourceNode="_zMDisFI4EembDJQ0RWyWbA" targetNode="_g9KJUVI4EembDJQ0RWyWbA">
+      <target xmi:type="jobSearch:OffreEmploi" href="My.jobsearch#//@entreprise.1/@publier.0"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_5C0TkVUeEemKpNKjNGKE2w" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/org.lpdql.jobSearch.vp/description/vp.odesign#//@ownedViewpoints[name='myJobSearch']/@ownedRepresentations[name='jobSearchDiagram']/@defaultLayer/@edgeMappings[name='2']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_5C0TklUeEemKpNKjNGKE2w" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/org.lpdql.jobSearch.vp/description/vp.odesign#//@ownedViewpoints[name='myJobSearch']/@ownedRepresentations[name='jobSearchDiagram']/@defaultLayer/@edgeMappings[name='2']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_9p-r81UeEemKpNKjNGKE2w" sourceNode="_R3nGgFI4EembDJQ0RWyWbA" targetNode="_zMBtgFI4EembDJQ0RWyWbA">
+      <target xmi:type="jobSearch:Entreprise" href="My.jobsearch#//@entreprise.0"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_9p_TAFUeEemKpNKjNGKE2w" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/org.lpdql.jobSearch.vp/description/vp.odesign#//@ownedViewpoints[name='myJobSearch']/@ownedRepresentations[name='jobSearchDiagram']/@defaultLayer/@edgeMappings[name='Entreprise%20OffreEmploi']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_9p_TAVUeEemKpNKjNGKE2w" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/org.lpdql.jobSearch.vp/description/vp.odesign#//@ownedViewpoints[name='myJobSearch']/@ownedRepresentations[name='jobSearchDiagram']/@defaultLayer/@edgeMappings[name='Entreprise%20OffreEmploi']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_9p_TBFUeEemKpNKjNGKE2w" sourceNode="_R3nGgFI4EembDJQ0RWyWbA" targetNode="_zMC7oFI4EembDJQ0RWyWbA">
+      <target xmi:type="jobSearch:Entreprise" href="My.jobsearch#//@entreprise.0"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_9p_6EFUeEemKpNKjNGKE2w" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/org.lpdql.jobSearch.vp/description/vp.odesign#//@ownedViewpoints[name='myJobSearch']/@ownedRepresentations[name='jobSearchDiagram']/@defaultLayer/@edgeMappings[name='Entreprise%20OffreEmploi']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_9p_6EVUeEemKpNKjNGKE2w" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/org.lpdql.jobSearch.vp/description/vp.odesign#//@ownedViewpoints[name='myJobSearch']/@ownedRepresentations[name='jobSearchDiagram']/@defaultLayer/@edgeMappings[name='Entreprise%20OffreEmploi']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_9p_6FFUeEemKpNKjNGKE2w" sourceNode="_R3nGgFI4EembDJQ0RWyWbA" targetNode="_zMC7oVI4EembDJQ0RWyWbA">
+      <target xmi:type="jobSearch:Entreprise" href="My.jobsearch#//@entreprise.0"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_9p_6FVUeEemKpNKjNGKE2w" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/org.lpdql.jobSearch.vp/description/vp.odesign#//@ownedViewpoints[name='myJobSearch']/@ownedRepresentations[name='jobSearchDiagram']/@defaultLayer/@edgeMappings[name='Entreprise%20OffreEmploi']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_9p_6FlUeEemKpNKjNGKE2w" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/org.lpdql.jobSearch.vp/description/vp.odesign#//@ownedViewpoints[name='myJobSearch']/@ownedRepresentations[name='jobSearchDiagram']/@defaultLayer/@edgeMappings[name='Entreprise%20OffreEmploi']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_9p_6GVUeEemKpNKjNGKE2w" sourceNode="_R3-58FI4EembDJQ0RWyWbA" targetNode="_zMDisFI4EembDJQ0RWyWbA">
+      <target xmi:type="jobSearch:Entreprise" href="My.jobsearch#//@entreprise.1"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_9p_6GlUeEemKpNKjNGKE2w" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/org.lpdql.jobSearch.vp/description/vp.odesign#//@ownedViewpoints[name='myJobSearch']/@ownedRepresentations[name='jobSearchDiagram']/@defaultLayer/@edgeMappings[name='Entreprise%20OffreEmploi']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_9p_6G1UeEemKpNKjNGKE2w" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/org.lpdql.jobSearch.vp/description/vp.odesign#//@ownedViewpoints[name='myJobSearch']/@ownedRepresentations[name='jobSearchDiagram']/@defaultLayer/@edgeMappings[name='Entreprise%20OffreEmploi']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_9qAhIlUeEemKpNKjNGKE2w" sourceNode="_zMBtgFI4EembDJQ0RWyWbA" targetNode="_g9KJUVI4EembDJQ0RWyWbA">
+      <target xmi:type="jobSearch:OffreEmploi" href="My.jobsearch#//@entreprise.0/@publier.0"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_9qBIMFUeEemKpNKjNGKE2w" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/org.lpdql.jobSearch.vp/description/vp.odesign#//@ownedViewpoints[name='myJobSearch']/@ownedRepresentations[name='jobSearchDiagram']/@defaultLayer/@edgeMappings[name='OffreEmploi%20Candidat']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_9qBIMVUeEemKpNKjNGKE2w" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/org.lpdql.jobSearch.vp/description/vp.odesign#//@ownedViewpoints[name='myJobSearch']/@ownedRepresentations[name='jobSearchDiagram']/@defaultLayer/@edgeMappings[name='OffreEmploi%20Candidat']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_9qBINFUeEemKpNKjNGKE2w" sourceNode="_zMDisFI4EembDJQ0RWyWbA" targetNode="_g9KJUVI4EembDJQ0RWyWbA">
+      <target xmi:type="jobSearch:OffreEmploi" href="My.jobsearch#//@entreprise.1/@publier.0"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_9qBINVUeEemKpNKjNGKE2w" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/org.lpdql.jobSearch.vp/description/vp.odesign#//@ownedViewpoints[name='myJobSearch']/@ownedRepresentations[name='jobSearchDiagram']/@defaultLayer/@edgeMappings[name='OffreEmploi%20Candidat']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_9qBINlUeEemKpNKjNGKE2w" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/org.lpdql.jobSearch.vp/description/vp.odesign#//@ownedViewpoints[name='myJobSearch']/@ownedRepresentations[name='jobSearchDiagram']/@defaultLayer/@edgeMappings[name='OffreEmploi%20Candidat']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_Tx4-SFUfEemKpNKjNGKE2w" sourceNode="_zMBtgFI4EembDJQ0RWyWbA" targetNode="_QdNhdVUfEemKpNKjNGKE2w">
+      <target xmi:type="jobSearch:OffreEmploi" href="My.jobsearch#//@entreprise.0/@publier.0"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_Tx4-SVUfEemKpNKjNGKE2w" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/org.lpdql.jobSearch.vp/description/vp.odesign#//@ownedViewpoints[name='myJobSearch']/@ownedRepresentations[name='jobSearchDiagram']/@defaultLayer/@edgeMappings[name='OffreEmploi%20Candidat']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_Tx4-SlUfEemKpNKjNGKE2w" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/org.lpdql.jobSearch.vp/description/vp.odesign#//@ownedViewpoints[name='myJobSearch']/@ownedRepresentations[name='jobSearchDiagram']/@defaultLayer/@edgeMappings[name='OffreEmploi%20Candidat']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_Tx5lUlUfEemKpNKjNGKE2w" sourceNode="_zMC7oFI4EembDJQ0RWyWbA" targetNode="_QdNhdVUfEemKpNKjNGKE2w">
+      <target xmi:type="jobSearch:OffreEmploi" href="My.jobsearch#//@entreprise.0/@publier.1"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_Tx5lU1UfEemKpNKjNGKE2w" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/org.lpdql.jobSearch.vp/description/vp.odesign#//@ownedViewpoints[name='myJobSearch']/@ownedRepresentations[name='jobSearchDiagram']/@defaultLayer/@edgeMappings[name='OffreEmploi%20Candidat']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_Tx5lVFUfEemKpNKjNGKE2w" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/org.lpdql.jobSearch.vp/description/vp.odesign#//@ownedViewpoints[name='myJobSearch']/@ownedRepresentations[name='jobSearchDiagram']/@defaultLayer/@edgeMappings[name='OffreEmploi%20Candidat']"/>
     </ownedDiagramElements>
     <description xmi:type="description_1:DiagramDescription" href="platform:/resource/org.lpdql.jobSearch.vp/description/vp.odesign#//@ownedViewpoints[name='myJobSearch']/@ownedRepresentations[name='jobSearchDiagram']"/>
     <filterVariableHistory xmi:type="diagram:FilterVariableHistory" uid="_LddtkFI4EembDJQ0RWyWbA"/>

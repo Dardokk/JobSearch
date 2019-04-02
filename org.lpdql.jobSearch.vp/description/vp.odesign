@@ -17,7 +17,7 @@
             <color xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='light_blue']"/>
           </style>
         </nodeMappings>
-        <edgeMappings name="lienOffreemploi" sourceMapping="//@ownedViewpoints[name='myJobSearch']/@ownedRepresentations[name='jobSearchDiagram']/@defaultLayer/@nodeMappings[name='candidat']" targetMapping="//@ownedViewpoints[name='myJobSearch']/@ownedRepresentations[name='jobSearchDiagram']/@defaultLayer/@nodeMappings[name='entreprise']" domainClass="jobSearch::OffreEmploi" useDomainElement="true">
+        <edgeMappings name="Entreprise OffreEmploi" sourceMapping="//@ownedViewpoints[name='myJobSearch']/@ownedRepresentations[name='jobSearchDiagram']/@defaultLayer/@nodeMappings[name='entreprise']" targetMapping="//@ownedViewpoints[name='myJobSearch']/@ownedRepresentations[name='jobSearchDiagram']/@defaultLayer/@containerMappings[name='offreemploi']" targetFinderExpression="feature:publier">
           <style sizeComputationExpression="2">
             <strokeColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='gray']"/>
             <centerLabelStyleDescription labelSize="12">
@@ -25,7 +25,7 @@
             </centerLabelStyleDescription>
           </style>
         </edgeMappings>
-        <edgeMappings sourceMapping="//@ownedViewpoints[name='myJobSearch']/@ownedRepresentations[name='jobSearchDiagram']/@defaultLayer/@nodeMappings[name='entreprise']" targetMapping="//@ownedViewpoints[name='myJobSearch']/@ownedRepresentations[name='jobSearchDiagram']/@defaultLayer/@containerMappings[name='offreemploi']" targetFinderExpression="feature:publier">
+        <edgeMappings name="OffreEmploi Candidat" sourceMapping="//@ownedViewpoints[name='myJobSearch']/@ownedRepresentations[name='jobSearchDiagram']/@defaultLayer/@containerMappings[name='offreemploi']" targetMapping="//@ownedViewpoints[name='myJobSearch']/@ownedRepresentations[name='jobSearchDiagram']/@defaultLayer/@nodeMappings[name='candidat']" targetFinderExpression="feature:candidat">
           <style sizeComputationExpression="2">
             <strokeColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='gray']"/>
             <centerLabelStyleDescription labelSize="12">
